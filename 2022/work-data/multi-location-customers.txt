@@ -1,0 +1,52 @@
+3 phase
+Alberta Power
+Baker Hughes
+Ballard
+BC Hydro
+BCIT
+Brandt
+C FER
+CARMA
+Cenovus
+CSA
+DNOW
+Dow Chemical
+Dynamo
+Eaton
+Finning
+Flint
+FMC
+Frontier
+General Energy
+General Fusion
+Halliburton
+Intertek
+Konecranes
+Luxmux
+Magna IV
+Manitoba Hydro
+National Research Council
+Neurio
+NOV Canada
+Nova Chemical
+Sask Power
+Sask Tel
+Saskatchewan Polytechnic
+Saskatchewan Research
+Schlumberger
+Schneider
+Shermco
+Simon Fraser
+Simson Maxwell
+Spartan Controls
+Steelhaus
+Strike Group
+Swift Oilfield
+Telus
+Underwriters
+University of Alberta
+University of British
+University of Manitoba
+University of Saskatchewan
+University of the Fraser
+University of Victoria

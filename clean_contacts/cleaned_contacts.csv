@@ -1,6 +1,5 @@
 Contactno,Contact,Customerno,Company,Emailaddress,Firstname,Lastname,Phone,Sales Rep,Sitecity,Site Country,Sitestate,Statuscode
 9187017,Aaron Sullivan,DES0013,NOV Canada ULC,aaron.sullivan@nov.com,Aaron,Sullivan,(403)371-4507,ALYTE,Calgary,Canada,AB,ACTIVE
-9441474,Abhijeet Kekane,BHC005,Baker Hughes Canada Company,abhijeet.kekane@bakerhughes.com,Abhijeet,Kekane,(780)612-3203,ALYTE,Leduc,Canada,AB,ACTIVE
 9157696,Adam Benevides,BSC004,Blackline Safety Corp.,abenevides@blacklinesafety.com,Adam,Benevides,(403)451-0327,ALYTE,Calgary,Canada,AB,ACTIVE
 BG163308,Adam Hempstock,CT1145,Corrpro Canada Inc.,adam.hempstock@corrpro.ca,Adam,Hempstock,(780)306-1056,ALYTE,Edmonton,Canada,AB,ACTIVE
 9809423,Adam Hempstock,DAV162053,IRT Integrated Rectifier Technologies Inc.,Adam.Hempstock@irtrectifier.com,Adam,Hempstock,(780)447-1114,ALYTE,Edmonton,Canada,AB,ACTIVE
@@ -14,50 +13,33 @@ BG163308,Adam Hempstock,CT1145,Corrpro Canada Inc.,adam.hempstock@corrpro.ca,Ada
 9472769,Alan Chu,WET002,Westgen Technologies,Alan.Chu@westgentech.com,Alan,Chu,(403)891-8998,ALYTE,Calgary,Canada,AB,ACTIVE
 44808442,Albert Pul-agan,LIC0017,Linde Canada,albert.pul-agan@linde.com,Albert,Pul-agan,(780) 449 0778,ALYTE,Edmonton,Canada,AB,ACTIVE
 5920637,Alex Chlum,SLC003,Senso Lighting Inc.,engineering@sensolighting.com,ALEX,CHLUM,(403)216-7043,ALYTE,Calgary,Canada,AB,ACTIVE
-9779185,Alex Greenshields,EM4006910,Cenovus Energy Inc.                (H/O),alex.greenshields@cenovus.com,Alex,Greenshields,(780)559-6128,ALYTE,Calgary,Canada,AB,ACTIVE
 8615401,Alex Liang,OTX001,Off The X Inc.,liang@offthex.ca,Alex,Liang,(587)415-6123,ALYTE,Edmonton Intl Airport,Canada,AB,ACTIVE
 9851587,Alex McLeod,SCL0035,Spartan Controls Ltd.,McLeod.Alex@spartancontrols.com,Alex,McLeod,(403)695-2314,ALYTE,Calgary,Canada,AB,ACTIVE
 5383880,Ali Khajehoddin,CT4004371,University of Alberta,khajeddin@ualberta.ca,ALI,KHAJEHODDIN,(780)492-3449,ALYTE,Edmonton,Canada,AB,ACTIVE
 8955515,Ali Saghafi,GGI003,Growing Greener Innovations,ali.saghafi@growinggreener.ca,Ali,Saghafi,(587)936-2431,ALYTE,Edmonton,Canada,AB,ACTIVE
-9564421,Amber Goldfinch,EBH0010,EB Horsman & Son,agoldfinch@ebhorsman.com,Amber,Goldfinch,(780)490-7740,ALYTE,Edmonton,Canada,AB,ACTIVE
 9436973,Amir Bouaziz,EM4014561,Global Power Technologies Inc.,amir.bouaziz@globalte.com,Amir,Bouaziz,(587)943-4453,ALYTE,Calgary,Canada,AB,ACTIVE
 8592265,Amir Meysami,TEC0048,TC Energy Corporation,amir_meysami@tcenergy.com,Amir,Meysami,(403)948-8236,ALYTE,Airdrie,Canada,AB,ACTIVE
 7874122,Andre Guggenberger,TFS005,PTW Energy Services Ltd.,aguggenberger@tarponenergy.com,Andre,Guggenberger,(780)874-6011,ALYTE,Lloydminster,Canada,AB,ACTIVE
 8064799,Andrea Ongaro,TOM100116,CSA Group Testing & Certification Inc,andrea.ongaro@csagroup.org,Andrea,Ongaro,(780)490-2056,ALYTE,Edmonton,Canada,AB,ACTIVE
 5558571,Andrew Alford,WST13660,Eguana Technologies Inc.,andrew.alford@eguanatech.com,Andrew,Alford,(403)508-7177,ALYTE,Calgary,Canada,AB,ACTIVE
 9545959,Andrew Alford,ETI0014,Exro Technologies Inc. (H/O),aalford@exro.com,Andrew,Alford,(587)330-1522,ALYTE,Calgary,Canada,AB,ACTIVE
-44944762,Andrew Atton,DAV62260,ITM Instruments,aatton@itm.com,Andrew,Atton,(403)272-9332,ALYTE,Calgary,Canada,AB,ACTIVE
 8592947,Andrew Maris,AIS0015,AEC Industrial Solutions,andrew.maris@aec.ca,Andrew,Maris,(403)346-2071,ALYTE,Red Deer County,Canada,AB,ACTIVE
-9555595,Andrew Sherrard,EEC004,Eecol Electric Corp,andrew.sherrard@eecol.com,Andrew,Sherrard,(780)468-6141,ALYTE,Edmonton,Canada,AB,ACTIVE
 9360056,Andy Skoreyko,TEL0036,TC Energy Ltd.,Andy_skoreyko@tcenergy.com,Andy,Skoreyko,(780)547-5444,ALYTE,Fort McMurray,Canada,AB,ACTIVE
 8998067,Anja Slabe,WST13660,Eguana Technologies Inc.,anja.slabe@eguanatech.com,Anja,Slabe,(403)508-7177,ALYTE,Calgary,Canada,AB,ACTIVE
-8917904,Annie Haley,DAV262375,Dow Chemical Canada ULC,ahaley2@dow.com,Annie,Haley,(780)998-8000,ALYTE,Fort Saskatchewan,Canada,AB,ACTIVE
-2469228,Anthony (Tony) Jones,DAV255720,Arcfield Canada,ajones12@peraton.com,Anthony,Jones,(403)295-4752,KMENHEERE,Calgary,Canada,AB,ACTIVE
-9967510,Anthony Au,EM4013120,NovAtel Inc.,Anthony.au@hexagon.com,Anthony,Au,(403)730-4631,ALYTE,Calgary,Canada,AB,ACTIVE
+8914959,Annie Haley,EM4006632,Dow Chemical Canada ULC,ahaley2@dow.com,Annie,Haley,(780)992-4034,ALYTE,Fort Saskatchewan,Canada,AB,ACTIVE
 5116499,Anthony Mori,EM4011438,Alberta Industrial Controls & Drives Inc.,anthonym@aicd.ca,Anthony,Mori,(780)436-4848,ALYTE,Edmonton,Canada,AB,ACTIVE
 44924015,Anwar Ahmed,CFT002,C FER Technologies,a.ahmed@cfertech.com,Anwar,Ahmed,(587)754-2339,ALYTE,Edmonton,Canada,AB,ACTIVE
 8930164,Arief Muhayatsyah,WST14398,Canadian Advanced ESP,aMuhayatsyah@cai-esp.com,Arief,Muhayatsyah,(780)469-0770,ALYTE,Edmonton,Canada,AB,ACTIVE
 3530297,Armand Heintz,REL003,REV Engineering Ltd.,aheintz@reveng.ca,Armand,Heintz,(403)214-1753,ALYTE,Calgary,Canada,AB,ACTIVE
-3987428,Arnold Pipke,CT4003173,InnoTech Alberta,arnold.pipke@albertainnovates.ca,ARNOLD,PIPKE,(780)450-5111,ALYTE,Edmonton,Canada,AB,ACTIVE
-6808380,Ashley Lake Moncrieff,SCH006,Schlumberger Canada Ltd.,ALake@slb.com,ASHLEY,MONCRIEFF,(780)461-1143,ALYTE,Edmonton,Canada,AB,ACTIVE
-10018711,Benoit Fournier,SUE002,Suncor Energy Products Partnership,benofournier@suncor.com,Benoit,Fournier,(514)650-4452,ALYTE,Calgary,Canada,AB,ACTIVE
 8188543,Benson Hsu,EM4014561,Global Power Technologies Inc.,benson.hsu@globalte.com,Benson,Hsu,(587)747-0148,ALYTE,Calgary,Canada,AB,ACTIVE
 9428773,Betson Philip,CT4000903,Hayley Industrial Electronics Ltd.,bphillip@hayleyelectronics.com,Betson,Philip,(403)259-5523,ALYTE,Calgary,Canada,AB,ACTIVE
-5275159,Bev Gellibrand,SCH006,Schlumberger Canada Ltd.,BTainsh01@slb.com,BEV,GELLIBRAND,(780)461-1143,ALYTE,Edmonton,Canada,AB,ACTIVE
-5562555,Beverly Tainsh,SCH006,Schlumberger Canada Ltd.,BTainsh01@exchange.slb.com,BEVERLY,TAINSH,(780)706-7222,ALYTE,Edmonton,Canada,AB,ACTIVE
-2035207,Bill Kilgallon,STI008,SMART Technologies ULC,billkilgallon@smarttech.com,BILL,KILGALLON,(403)235-1452,ALYTE,Calgary,Canada,AB,ACTIVE
 8380942,Bob Battle,EM4011288,NAIT Main Campus,bbattle@nait.ca,Bob,Battle,(780)471-7456,ALYTE,Edmonton,Canada,AB,ACTIVE
-9742448,Bob Blue,CT4005985,Electronic Connections Ltd.,BobB@ecl.ca,Bob,Blue,(780)469-7222,ALYTE,Edmonton,Canada,AB,ACTIVE
 4652913,Bob Stevens,GN002,GN Corporations Inc.,bstevens@gncorporations.com,Bob,Stevens,(403)948-6464,ALYTE,Airdrie,Canada,AB,ACTIVE
 9242468,Bobbie Halwa,BSC004,Blackline Safety Corp.,bhalwa@blacklinesafety.com,Bobbie,Halwa,(403)451-0327,ALYTE,Calgary,Canada,AB,ACTIVE
 7364492,Bobby Bobowski,CT4000915,Wesco Canada,mbobowski@wesco.com,BOBBY,BOBOWSKI,(403)259-0849,ALYTE,Calgary,Canada,AB,ACTIVE
-5506433,Boorada Balasubramanyam,EM4011651,Dow Chemical Canada ULC,BBoorada@dow.com,Boorada,Balasubramanyam,(403)885-7277,ALYTE,LaCombe County,Canada,AB,ACTIVE
 9429646,Boris Tsyganok,CT4005957,C FER Technologies (1999) Inc.,b.tsyganok@cfertech.com,Boris,Tsyganok,(780)450-8989,ALYTE,Edmonton,Canada,AB,ACTIVE
-2175864,Bosko Tosic,ENS001,Enerflex Ltd.,bosko.tosic@enerflex.com,Bosko,Tosic,(403)236-6800,ALYTE,Calgary,Canada,AB,ACTIVE
 7891541,"Brad Clark, P.Eng",TEC0048,TC Energy Corporation,Brad_Clark@transcanada.com,Clark,Brad,(403)948-8227,ALYTE,Airdrie,Canada,AB,ACTIVE
-5663744,Brad Paul,EM4014561,Global Power Technologies Inc.,brad.paul@globalte.com,Brad,Paul,(403)236-5556,ALYTE,Calgary,Canada,AB,ACTIVE
 8908206,Brad Peacock,EM4011651,Dow Chemical Canada ULC,peacocbp@dow.com,Brad,Peacock,(403)885-7060,ALYTE,LaCombe County,Canada,AB,ACTIVE
-5270309,Brad Stephens,EM4014561,Global Power Technologies Inc.,brad.stephens@globalte.com,Brad,Stephens,(403)720-7583,ALYTE,Calgary,Canada,AB,ACTIVE
 4033524,Brad Wasylyk,CT4003173,InnoTech Alberta,Brad.Wasylyk@albertainnovates.ca,BRAD,WASYLYK,(780)450-4624,ALYTE,Edmonton,Canada,AB,ACTIVE
 9063862,Brandon Gauthier,MEG008,ME Global,gauthibh@meglobal.biz,Brandon,Gauthier,(780)997-7603,ALYTE,Fort Saskatchewan,Canada,AB,ACTIVE
 8360797,Brandon St. Germain,RT57658,Aircom Instrumentation Ltd,BrandonS@AircomInstrumentation.com,Brandon,Germain,(780)434-6916,ALYTE,Edmonton,Canada,AB,ACTIVE
@@ -65,38 +47,22 @@ BG163308,Adam Hempstock,CT1145,Corrpro Canada Inc.,adam.hempstock@corrpro.ca,Ada
 8486991,Brent Lowen,APS0016,AECOM Integrated Services Inc.,Brent.Lowen@huskyenergy.com,Brent,Lowen,(587)674-0322,ALYTE,Fort McMurray,Canada,AB,ACTIVE
 4720979,Brent Serafinchan,ROS002,Rigid Oilfield Services Ltd.,brent@rigidoilfield.com,Brent,Serafinchan,(587)401-7161,ALYTE,Leduc,Canada,AB,ACTIVE
 9710649,Brent Sterling,BEL0024,Birchcliff Energy Ltd,bsterling@birchcliffenergy.com,Brent,Sterling,(780)864-4862,ALYTE,Baytree,Canada,AB,ACTIVE
-3477547,Brian Brittain,EM4013120,NovAtel Inc.,Brian.Brittain@novatel.com,BRIAN,BRITTAIN,(403)295-4500,ALYTE,Calgary,Canada,AB,ACTIVE
 10044297,Brian Callihoo,HSD001,Halliburton Group Canada - Nisku North,brian.callihoo@halliburton.com,Brian,Callihoo,(780)955-3065,ALYTE,Nisku,Canada,AB,ACTIVE
 5457738,Brian Hoff,EM4014561,Global Power Technologies Inc.,brian.hoff@globalte.com,Brian,Hoff,(403)720-2409,ALYTE,Calgary,Canada,AB,ACTIVE
 2482569,Brian L'Heureux,LUS001,LineStar Utility Supply (Alberta) Inc.,brian@linestar.ca,BRIAN,L'HEUREUX,(403)243-1900,ALYTE,Calgary,Canada,AB,ACTIVE
-9582949,Brittany Kendell,MOC0030,Motion Canada,Brittany.Kendell@motioncanada.com,Brittany,Kendell,(780)743-5504,ALYTE,Fort McMurray,Canada,AB,ACTIVE
-3704996,Bruno Schwizer,DAV273417,Schlumberger Canada Ltd.,bschwizer@slb.com,BRUNO,SCHWIZER,(780)955-2800,ALYTE,Nisku,Canada,AB,ACTIVE
 9820668,Bryan Godbolt,BRG008,Bryan Godbolt,bryan.godbolt@uvad.ca,Bryan,Godbolt,(403)878-2083,ALYTE,Redcliff,Canada,AB,ACTIVE
 4150478,Caley Wiberg,REL003,REV Engineering Ltd.,cwiberg@reveng.ca,Caley,Wiberg,(403)287-0156,ALYTE,Calgary,Canada,AB,ACTIVE
 45259047,Callista Lemay,PIP008,Purcee Industrial Power Ltd.,callista@purceepower.com,Callista,Lemay,(403)619-3724,ALYTE,Calgary,Canada,AB,ACTIVE
 8924224,Cam Mcaulay,PEE003,Peco Electrical Ltd.,cam.mcaulay@peco.ca,Cam,Mcaulay,(780)612-8616,ALYTE,Leduc,Canada,AB,ACTIVE
 7568614,Cameron Stewart,CYE001,Cybertech Electric,camerons@cybertechelectric.com,Cameron,Stewart,(780)483-6222,ALYTE,Edmonton,Canada,AB,ACTIVE
-10031020,Cameron White,DAV161037,Magna IV Engineering       (H/O),CWhite@magnaiv.com,Cameron,White,(587)497-0743,ALYTE,Edmonton,Canada,AB,ACTIVE
 9323191,Campbell Rea,CAR0018,Campbell Rea,ctrea@ualberta.ca,Campbell,Rea,(780)805-0277,ALYTE,Edmonton,Canada,AB,ACTIVE
-5806301,Candice Hejcman,EM4014561,Global Power Technologies Inc.,candice.hejcman@globalte.com,Candice,Hejcman,(403)203-4801,ALYTE,Calgary,Canada,AB,ACTIVE
-8931111,Carina Facundo,WST14398,Canadian Advanced ESP,Carina.Facundo@cai-esp.com,Carina,Facundo,(780)469-0770,ALYTE,Edmonton,Canada,AB,ACTIVE
 8412518,Carl Brown,VED003,Vertex Downhole,cbrown@vertexdownhole.com,Carl,Brown,(403)243-4320,ALYTE,Calgary,Canada,AB,ACTIVE
-9133353,Carla Asselin,TEL0043,TransCanada Energy Ltd.,carla_asselin@tcenergy.com,Carla,Asselin,(403)920-2000,ALYTE,Calgary,Canada,AB,ACTIVE
 4622640,Carla Lange,AAC004,ARP Automation Controls Inc.,carla.lange@arpautomation.com,CARLA,LANGE,(403)652-7130,ALYTE,High River,Canada,AB,ACTIVE
 5367846,Carole Terashita,CAI004,CARMA Corp.,cterashita@carmaindustries.com,Carole,Terashita,(403)863-5401,ALYTE,Calgary,Canada,AB,ACTIVE
-4205940,Cassandra Macleod,CT4001134,CB Engineering Ltd.,cmacleod@cbeng.com,CASSANDRA,MACLEOD,(780)465-9370,ALYTE,Edmonton,Canada,AB,ACTIVE
-4362562,Cedric Doerkson,4745187,GEO Pressure Systems Inc.,cedric@geopsi.com,Cedric,Doerkson,(403)453-1300,ALYTE,Calgary,Canada,AB,ACTIVE
-45116595,Chad Anderson,BP1119292,University of Calgary,caanders@ucalgary.ca,Chad,Anderson,(403)220-5751,ALYTE,Calgary,Canada,AB,ACTIVE
 45209166,Chad Coles,KCI007,Konecranes Canada Inc.,chad.coles@konecranes.com,Chad,Coles,(403)236-4050,ALYTE,Calgary,Canada,AB,ACTIVE
-3880130,Chad Rosche,EM4014107,Ametek Canada LP,chad.rosche@ametek.com,Chad,Rosche,(403)235-8400,ALYTE,Calgary,Canada,AB,ACTIVE
-8290813,Chad Semeniuk,CT4003177,Dycor Technologies Inc.,chad.semeniuk@dycor.com,Chad,Semeniuk,(780)930-2351,ALYTE,Edmonton,Canada,AB,ACTIVE
 8581210,Chad Sheeler,SEL0022,Sheeler Electric Ltd.,chad@sheelerelectric.ca,Chad,Sheeler,(780)898-4149,ALYTE,Drayton Valley,Canada,AB,ACTIVE
-5389540,Chad Yurkowski,AMP003,Alberta Mobile Power Systems,chad@albertapower.ca,CHAD,YURKOWSKI,(780)986-6691,ALYTE,Leduc,Canada,AB,ACTIVE
 8437197,Charly Allan,NOD005,Northstar Drillstem Testers Inc.,CHARLES.ALLAN@NORTHSTARDST.COM,Charly,Allan,(780)716-8569,ALYTE,Calgary,Canada,AB,ACTIVE
-7011657,Chris Campbell,DAV255720,Arcfield Canada,ccampb09@peraton.com,Chris,Campbell,(403)731-4819,KMENHEERE,Calgary,Canada,AB,ACTIVE
 7362677,Chris Duggan,CTT001,Thermon Heating Systems,chris.duggan@thermon.com,Chris,Duggan,(780)577-5584,ALYTE,Edmonton,Canada,AB,ACTIVE
-5082349,Chris Hiebert,EM4014561,Global Power Technologies Inc.,Chris.hiebert@globalte.com,Chris,Hiebert,(403)236-5556,ALYTE,Calgary,Canada,AB,ACTIVE
-6565873,Chris Nicol,STI008,SMART Technologies ULC,chrisnicol@smarttech.com,CHRIS,NICOL,(403)235-1452,ALYTE,Calgary,Canada,AB,ACTIVE
 TOM2227,Chris Skaley,EM4013310,Electrotek Ltd.,chris@electrotekltd.com,Chris,Skaley,(403)287-2200,ALYTE,Calgary,Canada,AB,ACTIVE
 7460062,Chris Wallis,SEI007,Suncor Energy Inc.,cwallis@suncor.com,CHRIS,WALLIS,(780)588-2300,ALYTE,Fort McMurray,Canada,AB,ACTIVE
 9113913,Christine Austin-Fafard,EM4013348,SFC Energy Ltd.,Christine.Austin-Fafard@sfc.com,Christine,Austin-Fafard,(800)565-7431,ALYTE,Calgary,Canada,AB,ACTIVE
@@ -107,10 +73,8 @@ TOM2227,Chris Skaley,EM4013310,Electrotek Ltd.,chris@electrotekltd.com,Chris,Ska
 1409725,Cindy McCabe,DAV161037,Magna IV Engineering       (H/O),cmccabe@magnaiv.com,CINDY,MCCABE,(780)462-3111,ALYTE,Edmonton,Canada,AB,ACTIVE
 44838640,Cindy Rehman,EM4008941,Nutrien Ltd.,Cindy.Rehman@Nutrien.com,Cindy,Rehman,(780) 998 6911,ALYTE,Fort Saskatchewan,Canada,AB,ACTIVE
 4620209,Claire Van Den Berg,BP157040,AC Dandy Products Ltd.,acdandy@acdandy.com,Claire,Berg,(780)361-5300,ALYTE,Wetaskiwin,Canada,AB,ACTIVE
-8127386,Claude Methot,DAV255720,Arcfield Canada,cmethot@peraton.com,Claude,Methot,(403)295-4793,KMENHEERE,Calgary,Canada,AB,ACTIVE
 8562882,Clay Grigo,CEN002,Cenovus Energy Inc.,clay.grigo@cenovus.com,Clay,Grigo,(780)559-8382,ALYTE,Christina Lake,Canada,AB,ACTIVE
 8500908,Clayton Dell,ATI0022,ATTAbotics Inc.,clayton.dell@attabotics.com,Clayton,Dell,(403)454-0995,ALYTE,Calgary,Canada,AB,ACTIVE
-3896996,Clifford Rego,SCH006,Schlumberger Canada Ltd.,crego@slb.com,CLIFFORD,REGO,(403)396-0972,ALYTE,Edmonton,Canada,AB,ACTIVE
 9592519,Cole Covenden,EMA303307,Halliburton Group Canada           (H/O),Cole.Covenden@halliburton.com,Cole,Covenden,(403)993-9300,ALYTE,Calgary,Canada,AB,ACTIVE
 45279351,Colin Brock,OSI0006,One Stone Innovations,Colin.Brock@osinno.com,Colin,Brock,(403)612-5791,ALYTE,Calgary,Canada,AB,ACTIVE
 8210572,Colleen Flores,HAL005,Halliburton Group Canada,Colleen.Flores@halliburton.com,Colleen,Flores,(780)472-8888,ALYTE,Leduc,Canada,AB,ACTIVE
@@ -120,24 +84,16 @@ TOM2227,Chris Skaley,EM4013310,Electrotek Ltd.,chris@electrotekltd.com,Chris,Ska
 8927452,Craig Banman,CT1145,Corrpro Canada Inc.,cbanman@aegion.com,Craig,Banman,(780)306-1072,ALYTE,Edmonton,Canada,AB,ACTIVE
 9213207,Craig Williams,NEU001,NOV Canada ULC,craig.williams@nov.com,Craig,Williams,(403)279-9696,ALYTE,Calgary,Canada,AB,ACTIVE
 9096316,Cris Ariola,SLC003,Senso Lighting Inc.,cariola@luminii.com,Cris,Ariola,(403)216-7043,ALYTE,Calgary,Canada,AB,ACTIVE
-9113528,Crystal Qiao,EM4013348,SFC Energy Ltd.,Crystal.Qiao@sfc.com,Crystal,Qiao,(800)565-7431,ALYTE,Calgary,Canada,AB,ACTIVE
 8609947,Curtis Anheliger,ZII002,ZIMCO Instrumentation Inc.,Curtis.Anheliger@Zimco.ca,Curtis,Anheliger,(403)253-8320,ALYTE,Calgary,Canada,AB,ACTIVE
 8407265,Curtis Johnston,NOD005,Northstar Drillstem Testers Inc.,curtis.johnston@northstardst.com,Curtis,Johnston,(403)650-2550,ALYTE,Calgary,Canada,AB,ACTIVE
-7167568,Dagne Biggar,DAV78176,Eecol Electric Ltd.,dagne.biggar@eecol.com,DAGNE,BIGGAR,(780)791-1835,ALYTE,Ft.  McMurray,Canada,AB,ACTIVE
 45074356,Dakota French,REL003,REV Engineering Ltd.,dfrench@reveng.ca,Dakota,French,(403)287-0156,ALYTE,Calgary,Canada,AB,ACTIVE
-5964171,Dale Bessette,CT4003173,InnoTech Alberta,dale.bessette@albertainnovates.ca,DALE,BESSETTE,(780)450-5111,ALYTE,Edmonton,Canada,AB,ACTIVE
-2055989,Dale Divel,EM4014107,Ametek Canada LP,dale.divel@ametek.com,Dale,Divel,(403)235-8400,ALYTE,Calgary,Canada,AB,ACTIVE
-4792365,Dan Kos,STI008,SMART Technologies ULC,dankos@smarttech.com,DAN,KOS,(403)407-4233,ALYTE,Calgary,Canada,AB,ACTIVE
-9878253,Dan Wasyliw,GCL007,Gescan Canada Ltd,Dan.Wasyliw@gescan.com,Dan,Wasyliw,(780)769-0068,ALYTE,Leduc,Canada,AB,ACTIVE
 2617332,Dan Wasyliw,CT4000918,Gescan Canada Ltd.,Dan.WASYLIW@sonepardis.ca,Dan,Wasyliw,(780)455-7171,ALYTE,Edmonton,Canada,AB,ACTIVE
 44969217,Daniel Cortes,RT57658,Aircom Instrumentation Ltd,DanielC@AircomInstrumentation.com,Daniel,Cortes,(780)434-6916,ALYTE,Edmonton,Canada,AB,ACTIVE
 8880326,Daniel Harrisson,EM4006632,Dow Chemical Canada ULC,DHarrisson@dow.com,Daniel,Harrisson,(780)998-8100,ALYTE,Fort Saskatchewan,Canada,AB,ACTIVE
 8163903,Daniel Serediak,CT4005957,C FER Technologies (1999) Inc.,d.serediak@cfertech.com,Daniel,Serediak,(780)450-8989,ALYTE,Edmonton,Canada,AB,ACTIVE
 45147234,Daniela Arango Vasquez,DAV125286,Natural Resources Canada,daniela.arangovasquez@nrcan-rncan.gc.ca,Daniela,Vasquez,(780)910-7246,ALYTE,Devon,Canada,AB,ACTIVE
-5289489,Danielle Kiesman,CT4003173,InnoTech Alberta,danielle.kiesman@albertainnovates.ca,DANIELLE,KIESMAN,(780)450-5111,ALYTE,Edmonton,Canada,AB,ACTIVE
 9799102,Danny Livshitz,DAL0022,Afel Technologies Inc.,danny.livshitz@afel.ca,Danny,Livshitz,(403)401-5123,ALYTE,Calgary,Canada,AB,ACTIVE
 6965878,Darcy Kauffman,DAV288098,AltaGas Operating Partnership,darcy.kauffman@altagas.ca,Darcy,Kauffman,(780)465-8182,ALYTE,Edmonton,Canada,AB,ACTIVE
-2022959,Darren Babichuk,CT4000933,Eaton Industries (Canada) Company,darren@babco-electric.com,DARREN,BABICHUK,(780)447-1386,ALYTE,Edmonton,Canada,AB,ACTIVE
 9556066,Darren Chrapko,AOT001,Alberta Oil Tool,darren.chrapko@championx.com,Darren,Chrapko,(780)434-8566,ALYTE,Edmonton,Canada,AB,ACTIVE
 9159367,Darren Hallock,BTI008,Brace Tool Inc.,darren.hallock@bracetool.com,Darren,Hallock,(780)438-0441,ALYTE,Edmonton,Canada,AB,ACTIVE
 DMG293862,Darren Madigan,EM4011438,Alberta Industrial Controls & Drives Inc.,darrenm@aicd.ca,Darren,Madigan,(780)436-4848,ALYTE,Edmonton,Canada,AB,ACTIVE
@@ -149,56 +105,36 @@ DMG293862,Darren Madigan,EM4011438,Alberta Industrial Controls & Drives Inc.,dar
 8585429,Dave Curtis,CJL65768,Suncor Energy Inc.,dacurtis@suncor.com,Dave,Curtis,(780)996-8019,ALYTE,Fort McMurray,Canada,AB,ACTIVE
 5776852,Dave Floyd,DAV115191,Frontier Power Products,dfloyd@frontierpower.com,Dave,Floyd,(780)455-2260,ALYTE,Edmonton,Canada,AB,ACTIVE
 4384398,Dave Hoover,PEE003,Peco Electrical Ltd.,Dave@peco.ca,Dave,Hoover,(780)955-7326,ALYTE,Leduc,Canada,AB,ACTIVE
-5504068,Dave Mclaughlin,EM4011651,Dow Chemical Canada ULC,dmclaughlin@dow.com,Dave,Mclaughlin,(403)885-7167,ALYTE,LaCombe County,Canada,AB,ACTIVE
-4770946,David Fleer,DAV255720,Arcfield Canada,dfleer@harris.com,DAVID,FLEER,(403)295-4777,KMENHEERE,Calgary,Canada,AB,ACTIVE
 9573489,David Kershaw,DAV85132,Suncor,davkershaw@suncor.com,David,Kershaw,(825)409-7690,ALYTE,Calgary,Canada,AB,ACTIVE
 9765128,David Nobes,BP1177363,University of Alberta,david.nobes@ualberta.ca,David,Nobes,(780)492-7031,ALYTE,Edmonton,Canada,AB,ACTIVE
 6782264,David Robidoux,EM4011651,Dow Chemical Canada ULC,drobidouxj@dow.com,David,Robidoux,(403)885-7277,ALYTE,LaCombe County,Canada,AB,ACTIVE
 10109480,David Sandford,T007,T & T Power Group,David.Sandford@TTpowergroup.com,David,Sandford,(780)437-3073,ALYTE,Edmonton,Canada,AB,ACTIVE
-2560582,David Stevenson,STI008,SMART Technologies ULC,davidstevenson@smarttech.com,DAVID,STEVENSON,(403)235-1452,ALYTE,Calgary,Canada,AB,ACTIVE
-3038499,Dean Petig,REL003,REV Engineering Ltd.,dpetig@reveng.ca,Dean,Petig,(403)287-0156,ALYTE,Calgary,Canada,AB,ACTIVE
 45248790,Deanna Lizotte,DAV125286,Natural Resources Canada,deanna.lizotte@nrcan-rncan.gc.ca,Deanna,Lizotte,(587)346-9551,ALYTE,Devon,Canada,AB,ACTIVE
 9609815,Deanne Bish,EM4013550,Alberta Power (2000) Ltd.,Deanne.Bish@heartlandgeneration.com,Deanne,Bish,(780)582-8132,ALYTE,Forestburg,Canada,AB,ACTIVE
 7550937,Debbie Cherniawsky,MOC0012,Motion Industries (Canada) Inc.,Debbie.Cherniawsky@motioncanada.com,Debbie,Cherniawsky,(403)236-5581,ALYTE,Calgary,Canada,AB,ACTIVE
 8837314,Deiter Klarenbach,GER005,General Energy Recovery Inc.,dklarenbach@geri.ca,Deiter,Klarenbach,(306)830-6324,ALYTE,Lloydminster,Canada,AB,ACTIVE
 45136586,Dennis Graden,CAP0024,Capital Power,dgraden@capitalpower.com,Dennis,Graden,(780)969-8626,ALYTE,Warburg,Canada,AB,ACTIVE
 4700179,Dennis Mohyluk,EM4006910,Cenovus Energy Inc.                (H/O),dennis.mohyluk@cenovus.com,Dennis,Mohyluk,(403)766-2000,ALYTE,Calgary,Canada,AB,ACTIVE
-1529266,Derek Clayton,DAV255720,Arcfield Canada,dclayton@harris.com,DEREK,CLAYTON,(403)295-4760,KMENHEERE,Calgary,Canada,AB,ACTIVE
 2890775,Derek McMahon,WDD001,Wajax Power Systems,DMcMahon@wajax.com,Derek,McMahon,(403)253-7601,ALYTE,Calgary,Canada,AB,ACTIVE
-7211310,Dianne Lopez,DAV273417,Schlumberger Canada Ltd.,DLopez27@exchange.slb.com,DIANNE,LOPEZ,(780)955-2800,ALYTE,Nisku,Canada,AB,ACTIVE
-3375756,DJ Elford,MTI008,Marl Technologies Inc,delford@marltechnologies.com,DJ,ELFORD,(800)404-4463,ALYTE,Edmonton,Canada,AB,ACTIVE
 8465002,Dominic DiMarino,EM4014107,Ametek Canada LP,Dominic.DiMarino@ametek.com,Dominic,DiMarino,(403)235-8462,ALYTE,Calgary,Canada,AB,ACTIVE
-45126023,Doree Fradette,DAV115191,Frontier Power Products,DFradette@frontierpower.com,Doree,Fradette,(587)606-2226,ALYTE,Edmonton,Canada,AB,ACTIVE
 44952545,Douglas Haines,CCI0022,Compact Compression Inc.,DHaines@compactcompression.com,Douglas,Haines,(403)291-6235,ALYTE,Calgary,Canada,AB,ACTIVE
 8660560,Douglas Yau,BP1119292,University of Calgary,douglas.yau1@ucalgary.ca,Douglas,Yau,(403)220-5751,ALYTE,Calgary,Canada,AB,ACTIVE
-5434276,Drew Hammond,EM4011651,Dow Chemical Canada ULC,hammondv@dow.com,Drew,Hammond,(403)885-7396,ALYTE,LaCombe County,Canada,AB,ACTIVE
 8241657,Du?an Jakovljevic,DAV255720,Arcfield Canada,djakovlj@peraton.com,Du?an,Jakovljevic,(403)295-4751,KMENHEERE,Calgary,Canada,AB,ACTIVE
-9914524,Duncan Moores,DAV239585,Flowserve Canada Corp.,dmoores@flowserve.com,Duncan,Moores,(780)980-3378,ALYTE,Leduc,Canada,AB,ACTIVE
 8935161,Earlwin Aguillon,PES0023,PTW Control Solutions Ltd.,eaguillon@ptwenergy.com,Earlwin,Aguillon,(403)724-0468,ALYTE,Rocky View,Canada,AB,ACTIVE
 8942577,Ed Piebiak,PFI005,Piebiak Farms Inc.,ed.piebiak@gmail.com,Ed,Piebiak,(780)359-2448,ALYTE,Eaglesham,Canada,AB,ACTIVE
 8366622,Edelweiss Halog,AHS007,Alberta Health Services,Edelweiss.Halog@albertahealthservices.ca,Edelweiss,Halog,(780)791-6006,ALYTE,Fort McMurray,Canada,AB,ACTIVE
 9129024,Edward Mantey,NUS002,Numerical Solutions,em@nsol.ca,Edward,Mantey,(780)439-4983,ALYTE,Edmonton,Canada,AB,ACTIVE
 4116088,Eric Boldt,DAV102647,Matrix Solutions Inc.,eboldt@matrix-solutions.com,Eric,Boldt,(403)262-5632,ALYTE,Calgary,Canada,AB,ACTIVE
 8997479,Eric Hustedt,ETI0014,Exro Technologies Inc. (H/O),ehustedt@exro.com,Eric,Hustedt,(587)619-1517,ALYTE,Calgary,Canada,AB,ACTIVE
-9563567,Eric Padley,HEG002,Heartland Generation Ltd.,eric.padley@heartlandgeneration.com,Eric,Padley,(587)943-1100,ALYTE,Calgary,Canada,AB,ACTIVE
 44921681,Eric Plouffe,CTT001,Thermon Heating Systems,eric.plouffe@thermon.com,Eric,Plouffe,(780)577-5592,ALYTE,Edmonton,Canada,AB,ACTIVE
-9420652,Ericka Tumax,EM4011304,Sabre Ltd. (H/O),Ericka.Tumax@sabre.ca,Ericka,Tumax,(403)538-0828,ALYTE,Calgary,Canada,AB,ACTIVE
-9886378,Ernest Snyder,ERS0011,Ernest Snyder,windysite@hotmail.com,Ernest,Snyder,(780)812-5839,ALYTE,Glendon,Canada,AB,ACTIVE
-10054771,Evan Davidge,EVD002,Evan Davidge,evan.davidge8@gmail.com,Evan,Davidge,(780)977-9618,ALYTE,Sherwood Park,Canada,AB,ACTIVE
-44851929,Evan Gillies,CT4000938,BHD Instrumentation Ltd.,evan.gillies@bhd.ca,Evan,Gillies,(780) 434 7850,ALYTE,Edmonton,Canada,AB,ACTIVE
-9627630,Evelyn Marshall,EBH0010,EB Horsman & Son,emarshall@ebhorsman.com,Evelyn,Marshall,(780)490-7740,ALYTE,Edmonton,Canada,AB,ACTIVE
 8957665,Exequiel Quinto,OTX001,Off The X Inc.,quinto@offthex.ca,Exequiel,Quinto,(352)283-3929,ALYTE,Edmonton Intl Airport,Canada,AB,ACTIVE
 10099581,Faiz Zaini,SCL0032,Steelhaus Technologies Canada Ltd.,fzaini@steelhausinc.com,Faiz,Zaini,(403)816-2292,ALYTE,Calgary,Canada,AB,ACTIVE
-45258859,Franco Coppola,SUE002,Suncor Energy Products Partnership,fcoppola@suncor.com,Franco,Coppola,(403)269-8100,ALYTE,Calgary,Canada,AB,ACTIVE
 9524697,Frank Diedrich,MIP009,Minuteman Press,fddiedrich@gmail.com,Frank,Diedrich,(403)391-1474,ALYTE,Red Deer,Canada,AB,ACTIVE
-3630840,Fred Zillinger,4745187,GEO Pressure Systems Inc.,fzillinger@gmail.com,Fred,Zillinger,(250)546-4944,ALYTE,Calgary,Canada,AB,ACTIVE
 9299785,Gabor Paroczai,ETI0014,Exro Technologies Inc. (H/O),gparoczai@exro.com,Gabor,Paroczai,(403)999-2909,ALYTE,Calgary,Canada,AB,ACTIVE
 9515598,Gancho Ganev,SDY91559,Syncrude Canada Ltd.               (H/O),ganganev@suncor.com,Gancho,Ganev,82 540 97317,ALYTE,Fort McMurray,Canada,AB,ACTIVE
 7261556,Gao Qi,WST14398,Canadian Advanced ESP,gao.qi@cai-esp.com,Gao,Qi,(780)469-0770,ALYTE,Edmonton,Canada,AB,ACTIVE
 9843377,Garet Whitford,NOM005,NorthRiver Midstream Inc.,garet.whitford@nrm.ca,Garet,Whitford,(250)789-6563,ALYTE,Calgary,Canada,AB,ACTIVE
-6027451,Garry Bird,EM4011651,Dow Chemical Canada ULC,BIRD@dow.com,Garry,Bird,(403)885-7277,ALYTE,LaCombe County,Canada,AB,ACTIVE
 5772433,Gary Roufosse,CES0016,Coherent Electronic Systems,gary@coherentdesigns.ca,Gary,Roufosse,(587)991-6260,ALYTE,Edmonton,Canada,AB,ACTIVE
-6272018,Gary Shade,EM4011288,NAIT Main Campus,gshade@nait.ca,GARY,SHADE,(780)471-7456,ALYTE,Edmonton,Canada,AB,ACTIVE
 8875310,George Read,STI008,SMART Technologies ULC,georgeread@smarttech.com,George,Read,(403)235-1452,ALYTE,Calgary,Canada,AB,ACTIVE
 9803737,George Teichrieb,DAV115191,Frontier Power Products,gteichrieb@frontierpower.com,George,Teichrieb,(604)946-5531,ALYTE,Edmonton,Canada,AB,ACTIVE
 8059603,Gerry Dyck,ENA002,Engineered Air,research@engineeredair.com,Gerry,Dyck,(403)287-2590,ALYTE,Calgary,Canada,AB,ACTIVE
@@ -206,152 +142,98 @@ DMG293862,Darren Madigan,EM4011438,Alberta Industrial Controls & Drives Inc.,dar
 9157401,Gio Barone,TAE004,Taifa Engineering,gbarone@taifaengineering.com,Gio,Barone,(780)405-4608,ALYTE,Edmonton,Canada,AB,ACTIVE
 8096958,Gonzalo Zambrano Narvaez,DAV107230,University of Alberta,gonzalo@ualberta.ca,Gonzalo,Narvaez,(780)492-3598,ALYTE,Edmonton,Canada,AB,ACTIVE
 44923312,Goran Andrijasevic,OWM001,Reservoir Group,goran.andrijasevic@reservoirgroup.com,Goran,Andrijasevic,,ALYTE,Calgary,Canada,AB,ACTIVE
-45122354,Gord Goodman,CAP0024,Capital Power,ggoodman@capitalpower.com,Gord,Goodman,(780)969-8536,ALYTE,Warburg,Canada,AB,ACTIVE
 9167130,Gordon Orser,ISI0017,IPEC Systems Inc.,gordon@ipec-systems.com,Gordon,Orser,(780)405-8674,ALYTE,Edmonton,Canada,AB,ACTIVE
 7043562,Graham Okerman,CT4003173,InnoTech Alberta,graham.okerman@innotechalberta.ca,GRAHAM,OKERMAN,(780)450-5545,ALYTE,Edmonton,Canada,AB,ACTIVE
 9773781,Greg Clark,PVL002,PJ Valve Ltd.,greg@pjvalve.com,Greg,Clark,(780)440-2373,ALYTE,Edmonton,Canada,AB,ACTIVE
-6565874,Greg Hartman,STI008,SMART Technologies ULC,greghartman@smarttech.com,GREG,HARTMAN,(403)235-1452,ALYTE,Calgary,Canada,AB,ACTIVE
 8785011,Greg Hauck,STI008,SMART Technologies ULC,GregHauck@smarttech.com,Greg,Hauck,(403)407-4737,ALYTE,Calgary,Canada,AB,ACTIVE
 TP2175320,Greg Law,TOM100116,CSA Group Testing & Certification Inc,greg.law@csa-international.org,GREG,LAW,(780)490-2056,ALYTE,Edmonton,Canada,AB,ACTIVE
-8747439,Greg McGillis,GRM004,Greg McGillis,gmcgillis@gmail.com,Greg,McGillis,,ALYTE,Edmonton,Canada,AB,ACTIVE
 4473981,Greg Von Lipinski,EM4011288,NAIT Main Campus,gregv@nait.com,GREG,LIPINSKI,(780)471-7495,ALYTE,Edmonton,Canada,AB,ACTIVE
-9854867,Gurpreet Parmar,CT4000918,Gescan Canada Ltd.,Gurpreet.Parmar@gescan.com,Gurpreet,Parmar,(780)455-7171,ALYTE,Edmonton,Canada,AB,ACTIVE
 9774239,Hadi Bagherzadeh,BP1119292,University of Calgary,hadi.bagherzadeh1@ucalgary.ca,Hadi,Bagherzadeh,(403)220-5751,ALYTE,Calgary,Canada,AB,ACTIVE
 7603393,Hao Tian,CT4004371,University of Alberta,htian2@ualberta.ca,Hao,Tian,(780)885-1669,ALYTE,Edmonton,Canada,AB,ACTIVE
-6510424,Harold Javier,EM4014561,Global Power Technologies Inc.,Harold.Javier@globalte.com,Harold,Javier,(403)236-5556,ALYTE,Calgary,Canada,AB,ACTIVE
-44829594,Harold Sager,MIE005,Magna IV Engineering,hsager@magnaiv.com,Harold,Sager,(346) 249 8631,ALYTE,Calgary,Canada,AB,ACTIVE
+5005746,Harold Sager,DAV161037,Magna IV Engineering       (H/O),hsager@magnaiv.com,HAROLD,SAGER,(780)462-3111,ALYTE,Edmonton,Canada,AB,ACTIVE
 DAV162061,Heath Gess,DAV162053,IRT Integrated Rectifier Technologies Inc.,heath.gess@irtrectifier.com,Heath,Gess,(780)447-1114,ALYTE,Edmonton,Canada,AB,ACTIVE
 5588193,Helen Doucette,EM4011288,NAIT Main Campus,HELEND@nait.ca,HELEN,DOUCETTE,(780)378-7112,ALYTE,Edmonton,Canada,AB,ACTIVE
-7357649,Helen Hemmerling,MSC001,MRC Global (Canada) ULC,helen.hemmerling@mrcglobal.com,HELEN,HEMMERLING,(877)490-7768,ALYTE,Calgary,Canada,AB,ACTIVE
 45126406,Henrietta Kerpel,EES0019,Eco-Smart Energy Solutions,eco-ses@shaw.ca,Henrietta,Kerpel,(403)901-3606,ALYTE,Walden PO,Canada,AB,ACTIVE
 45001980,Herbert Imegwu,SUE006,Suncor Energy,himegwuab@suncor.com,Herbert,Imegwu,(403)296-4846,ALYTE,Calgary,Canada,AB,ACTIVE
-4923231,Hetty Hatch,DAV262375,Dow Chemical Canada ULC,hhatch1@dow.com,Hetty,Hatch,(780)998-8000,ALYTE,Fort Saskatchewan,Canada,AB,ACTIVE
 7219143,Hitesh Rana,PLR115075,Foremost Industries LP,Hitesh.Rana@Foremost.ca,Hitesh,Rana,(403)295-5801,ALYTE,Calgary,Canada,AB,ACTIVE
-6545950,Horst Koelzow,EM4014561,Global Power Technologies Inc.,horst.koelzow@globalte.com,Horst,Koelzow,(403)236-5556,ALYTE,Calgary,Canada,AB,ACTIVE
+6542956,Horst Koelzow,EM4014561,Global Power Technologies Inc.,horst.koelzow@globalte.com,Horst,Koelzow,(403)236-5556,ALYTE,Calgary,Canada,AB,ACTIVE
 8444936,Hossein Khorshidian,OPE002,Opla Energy,HKhorshidian@oplaenergy.com,Hossein,Khorshidian,(403)589-4750,ALYTE,Calgary,Canada,AB,ACTIVE
 8595802,Huan Ngo,DAV262375,Dow Chemical Canada ULC,hngo@dow.com,Huan,Ngo,(780)998-8642,ALYTE,Fort Saskatchewan,Canada,AB,ACTIVE
-6217049,Hugh Fung,CT4003173,InnoTech Alberta,Hugh.Fung@albertainnovates.ca,HUGH,FUNG,(780)450-5111,ALYTE,Edmonton,Canada,AB,ACTIVE
 8845765,Hussain Jaffery,STI008,SMART Technologies ULC,hussainjaffery@smarttech.com,Hussain,Jaffery,(403)235-1452,ALYTE,Calgary,Canada,AB,ACTIVE
-9417850,Ian Lunt,EM4012353,Procon Systems (2013) Inc.,ilunt@proconsystems.com,Ian,Lunt,(403)255-2921,ALYTE,Calgary,Canada,AB,ACTIVE
 9573499,Ian Patterson,NTI0015,NGV Technologies Inc.,ian@ngvtechnologies.com,Ian,Patterson,,ALYTE,Calgary,Canada,AB,ACTIVE
 9081717,Ignacio Galiano Zurbriggen,BP1119292,University of Calgary,ignacio.galianozurbr@ucalgary.ca,Ignacio,Zurbriggen,(403)220-5751,ALYTE,Calgary,Canada,AB,ACTIVE
 9583884,Ileen Carlson,SEM008,Sky Eye Measurement Inc,ileen@skyeye.ca,Ileen,Carlson,(403)243-2442,ALYTE,Acheson,Canada,AB,ACTIVE
-4806092,Isabela Cuervo,EM4014561,Global Power Technologies Inc.,isabela.cuervo@globalte.com,Isabela,Cuervo,(403)720-2402,ALYTE,Calgary,Canada,AB,ACTIVE
 9040661,Ivan Baric,NAM006,NAMCO Machine & Gear Works Ltd.,ibaric@namco.ca,Ivan,Baric,(780)463-5602,ALYTE,Edmonton,Canada,AB,ACTIVE
 9158555,Ivan Osorio,OEF001,Orbis Engineering Field Services,iosorio@sparkpowercorp.com,Ivan,Osorio,(780)988-1455,ALYTE,Edmonton,Canada,AB,ACTIVE
-8298129,Jack W,NAI006,Norpine Auto Industrial Supply,jackw@norpine.ab.ca,Jack,W,(780)928-3912,ALYTE,La Crete,Canada,AB,ACTIVE
 44917124,Jackson Shannon,REL003,REV Engineering Ltd.,jshannon@reveng.ca,Jackson,Shannon,(403)287-0156,ALYTE,Calgary,Canada,AB,ACTIVE
 8945903,Jacob Cookson,MEG008,ME Global,cooksojs@meglobal.biz,Jacob,Cookson,(587)621-8733,ALYTE,Fort Saskatchewan,Canada,AB,ACTIVE
 8903021,Jacob Gareau,ETI0014,Exro Technologies Inc. (H/O),jgareau@exro.com,Jacob,Gareau,(519)802-6896,ALYTE,Calgary,Canada,AB,ACTIVE
 3741818,Jake Pekez,ELP002,Elecon Systems Ltd.,jpekez@eleconpower.ca,Jake,Pekez,(780)472-8858,ALYTE,Edmonton,Canada,AB,ACTIVE
-3488734,James Donald,CT4003173,InnoTech Alberta,James.Donald@albertainnovates.ca,JAMES,DONALD,(780)450-4616,ALYTE,Edmonton,Canada,AB,ACTIVE
-4795665,James Gillespie,DAV255720,Arcfield Canada,jgille02@harris.com,JAMES,GILLESPIE,(403)295-4777,KMENHEERE,Calgary,Canada,AB,ACTIVE
 8856049,James Klein,MYE002,Myarc Electric,jklein@myarcelectric.com,James,Klein,(780)980-8517,ALYTE,Leduc,Canada,AB,ACTIVE
 4559777,Jane Myatt,WAC006,Wave Control Systems Ltd.,jmyatt@wavecontrol.ca,Jane,Myatt,(780)468-4320,ALYTE,Edmonton,Canada,AB,ACTIVE
 45368783,Jared McKenzie,EM4011304,Sabre Ltd. (H/O),jared.mckenzie@sabre.ca,Jared,McKenzie,(403)258-0566,ALYTE,Calgary,Canada,AB,ACTIVE
 9547358,Jason Amies,SCL0032,Steelhaus Technologies Canada Ltd.,jamies@steelhausinc.com,Jason,Amies,(587)572-7164,ALYTE,Calgary,Canada,AB,ACTIVE
-9437946,Jason Smith,EBH0010,EB Horsman & Son,jsmith@ebhorsman.com,Jason,Smith,(780)944-9112,ALYTE,Edmonton,Canada,AB,ACTIVE
 9678090,Javad Abdollahi,EAB001,Enerkem AERF,jabdollahi@enerkem.com,Javad,Abdollahi,(780)392-2908,ALYTE,Edmonton,Canada,AB,ACTIVE
 9397881,Jay Burgwal,DAE009,DA Electric Ltd,jburgwal@daelectric.ca,Jay,Burgwal,(403)328-4849,ALYTE,Lethbridge,Canada,AB,ACTIVE
 4385643,Jay Sharma,TP2313,Stream Flo Industries Ltd.,jsharma@streamflo.com,Jay,Sharma,(587)416-5221,ALYTE,Edmonton,Canada,AB,ACTIVE
-7266002,Jaymin Bhachech,VWI003,VWR International,Jaymin_Bhachech@vwr.com,JAYMIN,BHACHECH,(800)932-5000,ALYTE,Edmonton,Canada,AB,ACTIVE
 7591603,Jeanne Phene,JEP004,Jeanne Phene,jeanne.phene@gmail.com,Jeanne,Phene,(403)289-0921,ALYTE,Calgary,Canada,AB,ACTIVE
-45280577,Jeff Cathcart,EM4006910,Cenovus Energy Inc.                (H/O),Jeff.Cathcart@cenovus.com,Jeff,Cathcart,(639)536-3427,ALYTE,Calgary,Canada,AB,ACTIVE
 9294499,Jeff MacDonald,RAM009,Ranglar Manufacturing Inc.,jeff@ranglar.com,Jeff,MacDonald,(403)252-2124,ALYTE,Calgary,Canada,AB,ACTIVE
-6244472,Jeff Maunder,CT4003173,InnoTech Alberta,jeff.maunder@albertainnovates.ca,JEFF,MAUNDER,(780)450-5219,ALYTE,Edmonton,Canada,AB,ACTIVE
 8878932,Jeff Rockwood,MOC0021,Motion Canada,jeff.rockwood@motioncanada.com,Jeff,Rockwood,(780)992-6940,ALYTE,Fort Saskatchewan,Canada,AB,ACTIVE
-3862659,Jeff Scott,4745187,GEO Pressure Systems Inc.,jeff.scott@geopsi.com,Jeff,Scott,(403)453-1300,ALYTE,Calgary,Canada,AB,ACTIVE
 5659553,Jenn O'Connell,MOC0012,Motion Industries (Canada) Inc.,Jenn.oconnell@moioncanada.com,Jenn,O'Connell,(403)236-5581,ALYTE,Calgary,Canada,AB,ACTIVE
-7196303,Jennifer Haubrich,DAV264792,Finning International Inc.,Jennifer.Haubrich@finning.com,JENNIFER,HAUBRICH,(403)275-3340,ALYTE,Calgary,Canada,AB,ACTIVE
 9985557,Jennifer Shearer,WET002,Westgen Technologies,jennifer.shearer@westgentech.com,Jennifer,Shearer,(587)997-4879,ALYTE,Calgary,Canada,AB,ACTIVE
-7474514,Jennifer White,SEM008,Sky Eye Measurement Inc,jennifer@skyeye.ca,JENNIFER,WHITE,(403)243-2442,ALYTE,Acheson,Canada,AB,ACTIVE
-6492452,Jeremy Hebert,STI008,SMART Technologies ULC,jhebert@smarttech.com,JEREMY,HEBERT,(403)407-4063,ALYTE,Calgary,Canada,AB,ACTIVE
-44951318,Jeremy Heer,WES0020,Wesco Distribution Canada LP,JerHeer@wescodist.com,Jeremy,Heer,,ALYTE,Fort McMurray,Canada,AB,ACTIVE
-2748039,Jerry Kopeck,EM4006910,Cenovus Energy Inc.                (H/O),Jerry.Kopeck@cenovus.com,Jerry,Kopeck,(780)573-7378,ALYTE,Calgary,Canada,AB,ACTIVE
 4237311,Jerry Zwozdesky,FPP001,Frontier Power Products,jzwozdesky@frontierpower.com,Jerry,Zwozdesky,(403)720-3735,ALYTE,Calgary,Canada,AB,ACTIVE
 7847585,Jess Baryluk,CON0012,Control Tech 2011 Ltd.,jbaryluk@controltechgp.ca,Jess,Baryluk,(780)539-7114,ALYTE,Grande Prairie,Canada,AB,ACTIVE
-5275146,Jesse Lesiuk,DAV273417,Schlumberger Canada Ltd.,jlesiuk@slb.com,JESSE,LESIUK,(780)461-1143,ALYTE,Nisku,Canada,AB,ACTIVE
-9583305,Jessica Hamilton,CAM008,Caron Measurement & Controls Ltd.,vvparts@caroncontrols.net,Jessica,Hamilton,(780)524-5954,ALYTE,Valleyview,Canada,AB,ACTIVE
 8778235,Jessie Veness,FAC0017,Fastenal Canada,abfo1@stores.fastenal.com,Jessie,Veness,(780)743-5746,ALYTE,Edmonton,Canada,AB,ACTIVE
 9398668,Jim Kelsall,WET002,Westgen Technologies,jim.kelsall@westgentech.com,Jim,Kelsall,(587)997-4879,ALYTE,Calgary,Canada,AB,ACTIVE
 6113061,Jim Leslie,JIL005,Jim Leslie,cwgaloot@outlook.com,Jim,Leslie,,ALYTE,Calgary,Canada,AB,ACTIVE
-2892306,Jim Morris,STI008,SMART Technologies ULC,jimmorris@smarttech.com,JIM,MORRIS,(403)614-5783,ALYTE,Calgary,Canada,AB,ACTIVE
-3790996,Jim Wilson,CT4003173,InnoTech Alberta,jim.wilson@albertainnovates.ca,JIM,WILSON,(780)450-5290,ALYTE,Edmonton,Canada,AB,ACTIVE
-4906607,Joan Lei,CT4003173,InnoTech Alberta,Joan.Lei@albertainnovates.ca,JOAN,LEI,(780)450-5111,ALYTE,Edmonton,Canada,AB,ACTIVE
-2303234,Jocelyn Leblanc,DAV255720,Arcfield Canada,jlebla01@harris.com,JOCELYN,LEBLANC,(403)295-4767,KMENHEERE,Calgary,Canada,AB,ACTIVE
 7126911,Joel Nielson,EM4014050,PCA Valence Engineering Technologies Ltd (H/O),joel.nielson@pcavalence.com,Joel,Nielson,(403)640-2868,ALYTE,Calgary,Canada,AB,ACTIVE
 8527369,John Bulhoes,AGI0010,Arg Group Inc,jbulhoes@arg-group-inc.com,John,Bulhoes,(306)821-7358,ALYTE,Kitscoty,Canada,AB,ACTIVE
-5903116,John Doyle,DAV255720,Arcfield Canada,jdoyle05@harris.com,JOHN,DOYLE,(403)295-4791,KMENHEERE,Calgary,Canada,AB,ACTIVE
 8043595,John Herrington,DAV122195,Continental Electrical Motor Services Ltd.,john.herrington@continental-electric.com,John,Herrington,(780)410-8800,ALYTE,Edmonton,Canada,AB,ACTIVE
-4936704,John Hodson,PSA001,PSAMS,johnh@psams.ca,JOHN,HODSON,(403)312-8500,ALYTE,Calgary,Canada,AB,ACTIVE
 44985181,John Johnson,DAV103096,Spartan Controls Ltd.     (H/O),Johnson.John@spartancontrols.com,John,Johnson,(403)207-0700,ALYTE,Calgary,Canada,AB,ACTIVE
 9924221,John McNally,MCC0011,McNally's Contracting,mcnallyscontracting@gmail.com,John,McNally,(403)714-1803,ALYTE,Calgary,Canada,AB,ACTIVE
 8060163,John Nielsen,ACC0024,Acceleware Ltd.,john.nielsen@acceleware.com,John,Nielsen,,ALYTE,Calgary,Canada,AB,ACTIVE
 1375467,John Salmon,CT4004371,University of Alberta,john.salmon@ualberta.ca,JOHN,SALMON,(780)492-7037,ALYTE,Edmonton,Canada,AB,ACTIVE
 8926671,John Sikkens,SOS0012,Swift Oilfield Supply Incorporated,john.sikkens@swiftsupply.ca,John,Sikkens,(780)675-2678,ALYTE,Athabasca,Canada,AB,ACTIVE
 4767557,John Sumner,EM4011288,NAIT Main Campus,jsumner@nait.ca,JOHN,SUMNER,(780)471-8517,ALYTE,Edmonton,Canada,AB,ACTIVE
-9899027,Johnny Chedore,TPL2813,Total Power Limited,jchedore@totalpower.ca,Johnny,Chedore,(780)429-1611,ALYTE,St. Albert,Canada,AB,ACTIVE
-9685266,Jolan Pressling,EM4013387,CE Franklin Ltd.,Jolan.Pressling@dnow.com,Jolan,Pressling,(780)791-7000,ALYTE,Edmonton,Canada,AB,ACTIVE
-5839251,Jon Goldman,CT4003173,InnoTech Alberta,Jon.Goldman@albertainnovates.ca,JON,GOLDMAN,(780)450-5111,ALYTE,Edmonton,Canada,AB,ACTIVE
+9682224,Jolan Pressling,DIS007,DistributionNOW,Jolan.Pressling@dnow.com,Jolan,Pressling,(780)791-7000,ALYTE,Fort McMurray,Canada,AB,ACTIVE
 9332369,Jon Maier,SPC0594,Spark Power Corporation,jmaier@sparkpowercorp.com,Jon,Maier,(780)318-0329,ALYTE,Edmonton,Canada,AB,ACTIVE
 10048813,Josh Kralka,WET002,Westgen Technologies,Josh.Kralka@westgentech.com,Josh,Kralka,(587)777-4188,ALYTE,Calgary,Canada,AB,ACTIVE
 9452639,Josh Sparrow,JOS0016,Josh Sparrow,j.sparrow@cescorp.ca,Josh,Sparrow,(780)268-2820,ALYTE,Spruce Grove,Canada,AB,ACTIVE
 8948674,Joshua Abbott,DAV76863,Dept of National Defence,joshua.abbott@forces.gc.ca,Joshua,Abbott,(780)840-8000,ALYTE,Cold Lake,Canada,AB,ACTIVE
 8925957,Jule Harris,IAS002,Insight Analytical Solutions Inc.,jharris@insight-analytical.com,Jule,Harris,(403)910-6289,ALYTE,Calgary,Canada,AB,ACTIVE
 45270141,Justin Bailey,JUB009,Justin Bailey,justintheclouds@outlook.com,Justin,Bailey,,ALYTE,Edmonton,Canada,AB,ACTIVE
-5414752,Justin Burwash,CON0012,Control Tech 2011 Ltd.,jburwash@controltechgp.ca,Justin,Burwash,(780)539-7114,ALYTE,Grande Prairie,Canada,AB,ACTIVE
 9191839,Justin Goeglein,ETI0014,Exro Technologies Inc. (H/O),jgoeglein@exro.com,Justin,Goeglein,(734)489-9123,ALYTE,Calgary,Canada,AB,ACTIVE
 8413583,Justin Rogozinski,TES0063,PTW Energy Services Ltd.,JRogozinski@ptwenergy.com,Justin,Rogozinski,(780)897-9525,ALYTE,Grande Prairie,Canada,AB,ACTIVE
-3382202,Justin Wong,EM4013120,NovAtel Inc.,Justin.Wong@novatel.com,JUSTIN,WONG,(403)730-4115,ALYTE,Calgary,Canada,AB,ACTIVE
 9563704,Kael Joshee,GRC0018,Graybar Canada,kjoshee@graybarcanada.com,Kael,Joshee,,ALYTE,Edmonton,Canada,AB,ACTIVE
-44934614,Kaitlin Penman,CT4000938,BHD Instrumentation Ltd.,reception@bhd.ca,Kaitlin,Penman,(780)434-7850,ALYTE,Edmonton,Canada,AB,ACTIVE
-4695498,Karen Strack,DAV255720,Arcfield Canada,kstrack@harris.com,Karen,Strack,(403)731-4814,KMENHEERE,Calgary,Canada,AB,ACTIVE
 8586173,Karl Pearman,SIM001,Simson Maxwell,kpearman@simmax.com,Karl,Pearman,(780)434-6431,ALYTE,Edmonton,Canada,AB,ACTIVE
 9077264,Katelyn Dimmell,BSC004,Blackline Safety Corp.,kdimmell@blacklinesafety.com,Katelyn,Dimmell,(403)451-0327,ALYTE,Calgary,Canada,AB,ACTIVE
 9632932,Kathi Kenney-Byrne,SDY91559,Syncrude Canada Ltd.               (H/O),kkenneybyrne@suncor.com,Kathi,Kenney-Byrne,78 079 07593,ALYTE,Fort McMurray,Canada,AB,ACTIVE
 8559420,Kathleen Murdock,APS0016,AECOM Integrated Services Inc.,kathleen.murdock@aecom.com,Kathleen,Murdock,(780)868-9005,ALYTE,Fort McMurray,Canada,AB,ACTIVE
 5400067,Kathy Collinson,MRS002,Record Technologies Inc.,kathy@recordtechnologies.com,Kathy,Collinson,(403)258-2909,ALYTE,Calgary,Canada,AB,ACTIVE
 8942048,Katy Dickson,ACI0035,Anixter Canada Inc.,Katy.Dickson@anixter.com,Katy,Dickson,(780)969-6730,ALYTE,Edmonton,Canada,AB,ACTIVE
-2409138,Katy Stevely,DAV78176,Eecol Electric Ltd.,stevelykl@eecol.com,KATY,STEVELY,(780)791-1835,ALYTE,Ft.  McMurray,Canada,AB,ACTIVE
-2122230,Kebin Wang,STI008,SMART Technologies ULC,kebinwang@smarttech.com,KEBIN,WANG,(403)235-1452,ALYTE,Calgary,Canada,AB,ACTIVE
-9501225,Kelly Pottershead,CT4004705,Eecol Electric Ltd.,kelly.mottershead@eecol.com,Kelly,Pottershead,78 045 16481,ALYTE,Edmonton,Canada,AB,ACTIVE
-2891235,Ken Forshner,CT4003173,InnoTech Alberta,forshner@arc.ab.ca,KEN,FORSHNER,(780)450-5111,ALYTE,Edmonton,Canada,AB,ACTIVE
-4770949,Ken Morrison,DAV255720,Arcfield Canada,kmorri06@harris.com,KEN,MORRISON,(403)295-4777,KMENHEERE,Calgary,Canada,AB,ACTIVE
-44851323,Kenny Wong,TEL0043,TransCanada Energy Ltd.,kenny_wong@tcenergy.com,Kenny,Wong,(403) 920 6179,ALYTE,Calgary,Canada,AB,ACTIVE
 40104,Kent Fetter,CT4000918,Gescan Canada Ltd.,Kent.Fetter@gescan.com,Kent,Fetter,(780)455-7171,ALYTE,Edmonton,Canada,AB,ACTIVE
-5916879,Kerr Boath,DAV255720,Arcfield Canada,kboath@peraton.com,KERR,BOATH,(403)295-4780,KMENHEERE,Calgary,Canada,AB,ACTIVE
 8569438,Kerry Friedrich,LCH002,Lehigh Cement                           (H/O),Kerry.Friedrich@LehighHanson.com,Kerry,Friedrich,(780)420-2540,ALYTE,Edmonton,Canada,AB,ACTIVE
 45293897,Kevin Cummins,KEC0016,Kevin Cummins,katsimai@hotmail.com,Kevin,Cummins,(416)989-9992,ALYTE,Cold Lake,Canada,AB,ACTIVE
 7092908,Kevin Garrett,STI008,SMART Technologies ULC,KevinGarrett@smarttech.com,KEVIN,GARRETT,(403)407-4114,ALYTE,Calgary,Canada,AB,ACTIVE
 9186401,Kevin Handcock,ETI0014,Exro Technologies Inc. (H/O),khandcock@exro.com,Kevin,Handcock,(587)801-8412,ALYTE,Calgary,Canada,AB,ACTIVE
 9731660,Kevin Kucharski,KEK009,Kevin Kucharski,kskuch@shaw.ca,Kevin,Kucharski,(403)479-5824,ALYTE,Calgary,Canada,AB,ACTIVE
 4460771,Kevin Olivari,NEC004,Neutron Electric Co. Ltd.,kolivari@neutronelectric.ca,Kevin,Olivari,(780)955-7595,ALYTE,Nisku,Canada,AB,ACTIVE
-45338800,Kevin Read,DAV115191,Frontier Power Products,kread@frontierpower.com,Kevin,Read,(587)606-2202,ALYTE,Edmonton,Canada,AB,ACTIVE
-9971620,Kiera Simpkins,CDC003,CDN Controls Ltd.,Kiera.simpkins@cdncontrols.ca,Kiera,Simpkins,(780)532-8151,ALYTE,Grand Prairie,Canada,AB,ACTIVE
 2045386,Kim Chartrand,TES0018,PTW Energy Services Ltd.,kchartrand@tarponenergy.com,Kim,Chartrand,(403)234-8647,ALYTE,Calgary,Canada,AB,ACTIVE
 9299532,Kim Kirkeby,NAM006,NAMCO Machine & Gear Works Ltd.,kirkeby@namco.ca,Kim,Kirkeby,(780)463-5602,ALYTE,Edmonton,Canada,AB,ACTIVE
 9327731,Kim Schram,CEC0021,CES Corporation,K.Schram@cescorp.ca,Kim,Schram,(780)934-5202,ALYTE,Acheson,Canada,AB,ACTIVE
-5443421,Kim Speelman,SES0023,Select Energy Systems Inc.,KSpeelman@selectesi.com,KIM,SPEELMAN,(403)984-1266,ALYTE,Calgary,Canada,AB,ACTIVE
 9816785,Kim Tran,ATI0022,ATTAbotics Inc.,kim@attabotics.com,Kim,Tran,(403)710-1070,ALYTE,Calgary,Canada,AB,ACTIVE
-10098563,Kirk Emter,EMA303307,Halliburton Group Canada           (H/O),kirk.emter@halliburton.com,Kirk,Emter,(403)231-9470,ALYTE,Calgary,Canada,AB,ACTIVE
 9005745,KJ Waldo,ADI007,Apex Distribution Inc.,kj.waldo@apexdistribution.com,KJ,Waldo,(403)268-7333,ALYTE,Calgary,Canada,AB,ACTIVE
 9061482,Kosala Waduthanthri,EM4015615,University of Alberta,waduthan@ualberta.ca,Kosala,Waduthanthri,(780)492-3321,ALYTE,Edmonton,Canada,AB,ACTIVE
-3575326,Kristopher Rebman,CT4005957,C FER Technologies (1999) Inc.,k.rebman@cfertech.com,KRISTOPHER,REBMAN,(780)450-3300,ALYTE,Edmonton,Canada,AB,ACTIVE
 45104943,Kristy Gust,ACI0040,Alberta Cryogenics 2016 Inc.,Kristyg@CSPCanada.ca,Kristy,Gust,(403)346-8240,ALYTE,Red Deer,Canada,AB,ACTIVE
 9105401,Kyle Scheuer,EM4006454,University of Alberta,scheuer@ualberta.ca,Kyle,Scheuer,(780)492-5286,ALYTE,Edmonton,Canada,AB,ACTIVE
-9675971,Kyle Summers,EBH0011,EB Horsman & Son,ksummers@ebhorsman.com,Kyle,Summers,(587)620-0022,ALYTE,Calgary,Canada,AB,ACTIVE
-7133936,Lacey Collins,DAV78176,Eecol Electric Ltd.,lacey.collins@eecol.com,LACEY,COLLINS,(780)791-1835,ALYTE,Ft.  McMurray,Canada,AB,ACTIVE
 45220487,Larry Mullin,FCL006,Flomax Compression Ltd,larrym@flomaxcompression.com,Larry,Mullin,(403)823-9920,ALYTE,Drumheller,Canada,AB,ACTIVE
-2303231,Laura Rankin,DAV255720,Arcfield Canada,lrankin@harris.com,LAURA,RANKIN,(403)295-4780,KMENHEERE,Calgary,Canada,AB,ACTIVE
-9005534,Leah Pappas,TES0076,PTW Control Solutions Ltd.,lpappas@ptwenergy.com,Leah,Pappas,(403)724-0469,ALYTE,Calgary,Canada,AB,ACTIVE
-9125756,Lendy Perez,TEL0043,TransCanada Energy Ltd.,lendy_perez@tcenergy.com,Lendy,Perez,(403)920-7601,ALYTE,Calgary,Canada,AB,ACTIVE
+9005535,Leah Pappas,PES0023,PTW Control Solutions Ltd.,lpappas@ptwenergy.com,Leah,Pappas,(403)724-0469,ALYTE,Rocky View,Canada,AB,ACTIVE
 45236040,Leo Belostotski,LEB006,Leo Belostotski,lbelosto@ucalgary.ca,Leo,Belostotski,(403)561-9398,ALYTE,Calgary,Canada,AB,ACTIVE
 8671920,Leo Polishchuk,TPS009,Tundra Petroleum Services Ltd.,lpolishchuk@tundrapetroleum.com,Leo,Polishchuk,(403)314-4474,ALYTE,Red Deer County,Canada,AB,ACTIVE
 4085197,Levi Grofs,RIC003,Riverbend Colony,electric@riverbfarming.ca,Levi,Grofs,(403)534-3967,ALYTE,Mossleigh,Canada,AB,ACTIVE
 45051519,Linda Gauthier,SGT005,State Group Trailer @ Sobeys Safeway,l.gauthier@stategroup.com,Linda,Gauthier,(905)293-7430,ALYTE,Balzac,Canada,AB,ACTIVE
 44872685,Lindsey Daly,EM4008941,Nutrien Ltd.,Lindsey.Daly@nutrien.com,Lindsey,Daly,(403)225-7230,ALYTE,Fort Saskatchewan,Canada,AB,ACTIVE
 44814213,Lisa Cummings,LIC0017,Linde Canada,Lisa.Cummings@linde.com,Lisa,Cummings,(780) 449 0778,ALYTE,Edmonton,Canada,AB,ACTIVE
-9262612,Lisa Pugh,HEG002,Heartland Generation Ltd.,Lisa.Pugh@heartlandgeneration.com,Lisa,Pugh,(587)943-1100,ALYTE,Calgary,Canada,AB,ACTIVE
 7833616,Loc Tong,TP2313,Stream Flo Industries Ltd.,ltong@streamflo.com,Loc,Tong,(780)468-6789,ALYTE,Edmonton,Canada,AB,ACTIVE
 9237466,Lonnie Hamilton,SEM008,Sky Eye Measurement Inc,lonnie@skyeye.ca,Lonnie,Hamilton,(780)960-3535,ALYTE,Acheson,Canada,AB,ACTIVE
 6044503,Louie de Guzman,RBT171846,Halliburton Group Canada,Louie.DeGuzman@halliburton.com,Louie,Guzman,(780)988-5105,ALYTE,Edmonton,Canada,AB,ACTIVE
@@ -361,42 +243,28 @@ DAV162061,Heath Gess,DAV162053,IRT Integrated Rectifier Technologies Inc.,heath.
 8413884,Mahbod Salmasi,ACC0024,Acceleware Ltd.,mahbod.salmasi@acceleware.com,Mahbod,Salmasi,,ALYTE,Calgary,Canada,AB,ACTIVE
 8492066,Maher Jacob,AL285241,Husky Oil Operations Limited   (H/O),Maher.Jacob@huskyenergy.com,Maher,Jacob,(403)298-6444,ALYTE,Calgary,Canada,AB,ACTIVE
 9014077,Maitreya Panse,ETI0014,Exro Technologies Inc. (H/O),mpanse@exro.com,Maitreya,Panse,(587)619-1517,ALYTE,Calgary,Canada,AB,ACTIVE
-10031500,Malcolm Fenelon,SUE002,Suncor Energy Products Partnership,mfenelon@suncor.com,Malcolm,Fenelon,(403)869-5234,ALYTE,Calgary,Canada,AB,ACTIVE
 6638666,Marc Charron,TPZ1007,Procon Systems (2013) Inc.,mcharron@proconsystems.com,Marc,Charron,(587)415-6257,ALYTE,Edmonton,Canada,AB,ACTIVE
-4334473,Marcel Weinans,CT4003173,InnoTech Alberta,marcel.weinans@albertainnovates.ca,MARCEL,WEINANS,(780)450-5111,ALYTE,Edmonton,Canada,AB,ACTIVE
 6093288,Mario Ordonez,EM4014561,Global Power Technologies Inc.,mario.ordonez@globalte.com,Mario,Ordonez,(403)236-5556,ALYTE,Calgary,Canada,AB,ACTIVE
 8363877,Marion Carpio,AHS007,Alberta Health Services,Marion.Carpio@albertahealthservices.ca,Marion,Carpio,(780)791-6006,ALYTE,Fort McMurray,Canada,AB,ACTIVE
 6935544,Marion Powell,MMS002,Miquelon Meter Service,marion@miquelonmeter.com,MARION,POWELL,(780)434-3411,ALYTE,Edmonton,Canada,AB,ACTIVE
 8592983,Mark Bedry,OPI004,Opcon Inc.,mark@opcon.ca,Mark,Bedry,(403)828-3200,ALYTE,Calgary,Canada,AB,ACTIVE
 5584740,Mark Hancock,HOE005,Hot Tec Energy,hancock@hottec.ca,MARK,HANCOCK,(403)630-4793,ALYTE,Calgary,Canada,AB,ACTIVE
 44774130,Mark Nesdoly,MAN0010,Mark Nesdoly,m.nesdoly@cescorp.ca,Mark,Nesdoly,(780) 669 3202,ALYTE,Acheson,Canada,AB,ACTIVE
-9262950,Mark Riewe,EM4006919,Alberta Power (2000) Ltd.,Mark.Riewe@heartlandgeneration.com,Mark,Riewe,(403)854-5141,ALYTE,Hanna,Canada,AB,ACTIVE
 8749891,Mark Sheehan,STE0026,Sentient Tools Engineering Corporation,mark.sheehan@sentienttools.ca,Mark,Sheehan,(587)882-4450,ALYTE,Edmonton,Canada,AB,ACTIVE
 9409551,Martin Korz,MAK0010,Martin Korz,mkorz@russelltech.com,Martin,Korz,(780)695-4784,ALYTE,Edmonton,Canada,AB,ACTIVE
 8494149,Marvin Walker,APS0016,AECOM Integrated Services Inc.,Marvin.Walker@Huskyenergy.com,Marvin,Walker,(780)788-5344,ALYTE,Fort McMurray,Canada,AB,ACTIVE
-6857900,Marwan Al Dulaimi,EM4014561,Global Power Technologies Inc.,marwan.aldulaimi@globalte.com,Marwan,Dulaimi,(403)236-5556,ALYTE,Calgary,Canada,AB,ACTIVE
 8050367,Marwan Al-Dulaimi,DAV173797,Advanced Measurements Inc.,marwan.aldulaimi@advmeas.com,Marwan,Al-Dulaimi,(587)952-5259,ALYTE,Calgary,Canada,AB,ACTIVE
-45050428,Maryan Matsyuk,DAV115191,Frontier Power Products,MMatsyuk@frontierpower.com,Maryan,Matsyuk,(780)581-1620,ALYTE,Edmonton,Canada,AB,ACTIVE
 9546193,Mary-Lou Adams,SLC003,Senso Lighting Inc.,mladams@luminii.com,Mary-Lou,Adams,(403)216-7043,ALYTE,Calgary,Canada,AB,ACTIVE
 10048817,Matthew Jennings,ETI0014,Exro Technologies Inc. (H/O),mjennings@exro.com,Matthew,Jennings,(602)563-6419,ALYTE,Calgary,Canada,AB,ACTIVE
 45115181,Matthew Runhart,Mar2022,Matthew Runhart,matt.runhart@gmail.com,Matthew,Runhart,(587)343-2614,ALYTE,Grande Prairie,Canada,AB,ACTIVE
-9765097,Matthias Lottmann,BP1177363,University of Alberta,lottmann@ualberta.ca,Matthias,Lottmann,(780)492-4668,ALYTE,Edmonton,Canada,AB,ACTIVE
-4511782,Maxim Saybel,EM4014561,Global Power Technologies Inc.,maxim.saybel@globalte.com,Maxim,Saybel,(403)236-5556,ALYTE,Calgary,Canada,AB,ACTIVE
-8973796,Melody Sangalang,EM4012343,Schneider Electric Canada Inc.,Melody.Sangalang@se.com,Melody,Sangalang,(403)214-3130,ALYTE,Calgary,Canada,AB,ACTIVE
-45086780,Michael Boles,NCU001,NOV Canada ULC,michael.boles@nov.com,Michael,Boles,(403)695-3161,ALYTE,Calgary,Canada,AB,ACTIVE
-44768700,Michael Fernquist,ETS004,Element Technical Services,mfernquist@ets.ca,Michael,Fernquist,(403) 930 0246,ALYTE,Calgary,Canada,AB,ACTIVE
-9144402,Michael Girgis,AIM007,Aecon Industrial Construction Services,mgirgis@aecon.com,Michael,Girgis,(403)930-5033,ALYTE,Calgary,Canada,AB,ACTIVE
+9770484,Matthias Lottmann,DAV107230,University of Alberta,lottmann@ualberta.ca,Matthias,Lottmann,(780)492-3598,ALYTE,Edmonton,Canada,AB,ACTIVE
 9912961,Michael Hong,NOM005,NorthRiver Midstream Inc.,Michael.Hong@nrm.ca,Michael,Hong,(587)747-6500,ALYTE,Calgary,Canada,AB,ACTIVE
-4788763,Michael Poclitar,DAV255720,Arcfield Canada,mpoclita@harris.com,MICHAEL,POCLITAR,(403)295-4777,KMENHEERE,Calgary,Canada,AB,ACTIVE
 9246362,Michael Rodriguez,EM4011304,Sabre Ltd. (H/O),michael.rodriguez@sabre.ca,Michael,Rodriguez,(403)258-0566,ALYTE,Calgary,Canada,AB,ACTIVE
 6443042,Michael Taschuk,GOI001,G2V Optics Inc.,mtt@g2voptics.com,Michael,Taschuk,(780)977-9355,ALYTE,Edmonton,Canada,AB,ACTIVE
 8841537,Michael Trask,CT1145,Corrpro Canada Inc.,MTrask@aegion.com,Michael,Trask,(780)447-4566,ALYTE,Edmonton,Canada,AB,ACTIVE
-9539653,Michal Jablonski,GIC0019,Guillevin International Co.,michal.jablonski@guillevin.com,Michal,Jablonski,(780)451-3999,ALYTE,Edmonton,Canada,AB,ACTIVE
 7989036,Michal Okoniewski,ACC0024,Acceleware Ltd.,michal.okoniewski@acceleware.com,Michal,Okoniewski,(403)705-2423,ALYTE,Calgary,Canada,AB,ACTIVE
 9469028,Michelle Heads,ESL005,Ener Phase Solutions Ltd.,mheads@enerphase.com,Michelle,Heads,(403)873-8500,ALYTE,Calgary,Canada,AB,ACTIVE
-45158195,Michelle Pradine,CT4000968,Keyera Partnership,Michelle_Pradine@keyera.com,Michelle,Pradine,(780)449-7997,ALYTE,Edmonton,Canada,AB,ACTIVE
 1742957,Mike Hearns,DAV255720,Arcfield Canada,mhearns@peraton.com,Mike,Hearns,(403)295-4754,KMENHEERE,Calgary,Canada,AB,ACTIVE
-4406429,Mike Hermanson,4745187,GEO Pressure Systems Inc.,mhermanson@permservices.com,Mike,Hermanson,(403)714-1346,ALYTE,Calgary,Canada,AB,ACTIVE
 10002737,Mike Heskins,CEA007,Custom Energized Air Ltd.,mike.heskins@cea-air.com,Mike,Heskins,(780)465-2247,ALYTE,Edmonton,Canada,AB,ACTIVE
 8506517,Mike Ingram,SUP007,Sandale Utility Products,mingram@sandale.ca,Mike,Ingram,(780)416-6025,ALYTE,Nisku,Canada,AB,ACTIVE
 4574943,Mike McCuaig,REW004,Remote Wireline,mike@remotewireline.com,MIKE,MCCUAIG,(780)939-6655,ALYTE,Morinville,Canada,AB,ACTIVE
@@ -404,78 +272,49 @@ DAV162061,Heath Gess,DAV162053,IRT Integrated Rectifier Technologies Inc.,heath.
 9623099,Mike Paskal,SDY91559,Syncrude Canada Ltd.               (H/O),paskal.michael@syncrude.com,Mike,Paskal,78 079 05871,ALYTE,Fort McMurray,Canada,AB,ACTIVE
 6230652,Mike Ramsay,REW007,Rodan Energy Solutions Corp.,mike.ramsay@rodanenergy.com,Mike,Ramsay,(403)301-3314,ALYTE,Calgary,Canada,AB,ACTIVE
 8959973,Mike Tayler,RT57658,Aircom Instrumentation Ltd,MikeT@AircomInstrumentation.com,Mike,Tayler,(780)434-6916,ALYTE,Edmonton,Canada,AB,ACTIVE
-45051526,Mitcheal Lonsdale,SGT005,State Group Trailer @ Sobeys Safeway,M.Lonsdale@stategroup.com,Mitcheal,Lonsdale,(780)292-1984,ALYTE,Balzac,Canada,AB,ACTIVE
-4441708,Mitchell Egger,AAC004,ARP Automation Controls Inc.,mitchell.egger@arpautomation.com,MITCHELL,EGGER,(403)652-7130,ALYTE,High River,Canada,AB,ACTIVE
 6729656,Mitchell Ray,EM4014050,PCA Valence Engineering Technologies Ltd (H/O),mitch.ray@pcavalence.com,Mitchell,Ray,(403)640-2868,ALYTE,Calgary,Canada,AB,ACTIVE
 9109678,Mo Sleiman,ETI0014,Exro Technologies Inc. (H/O),msleiman@exro.com,Mo,Sleiman,(514)677-0189,ALYTE,Calgary,Canada,AB,ACTIVE
-45104594,Monique Klak,SCL0035,Spartan Controls Ltd.,Klak.Monique@spartancontrols.com>,Monique,Klak,(403)695-2824,ALYTE,Calgary,Canada,AB,ACTIVE
 6703464,Monique Petit,EM4014166,Haul All Equipment Ltd.,monique@haulall.com,Monique,Petit,(403)328-7711,ALYTE,Lethbridge,Canada,AB,ACTIVE
-8045789,Mustafa Kaya,MUK003,Mustafa Kaya,m325kaya@gmail.com,Mustafa,Kaya,(587)778-7139,ALYTE,Edmonton,Canada,AB,ACTIVE
-7133795,Mustafa Kaya,MUK003,Mustafa Kaya,mkaya@telusplanet.net,Mustafa,Kaya,,ALYTE,Edmonton,Canada,AB,ACTIVE
 8931113,Myrna Garcia,WST14398,Canadian Advanced ESP,Myrna.Garcia@cai-esp.com,Myrna,Garcia,(780)469-0770,ALYTE,Edmonton,Canada,AB,ACTIVE
 9682162,Natasha Kabarchuk,DAV107230,University of Alberta,nkabarch@ualberta.ca,Natasha,Kabarchuk,(780)492-3598,ALYTE,Edmonton,Canada,AB,ACTIVE
 9851917,Nathan Baden,DFI001,DFI,nbaden@dfipiling.com,Nathan,Baden,(780)485-9186,ALYTE,Edmonton,Canada,AB,ACTIVE
 45238277,Neil D'Souza,WST13660,Eguana Technologies Inc.,neil.dsouza@eguanatech.com,Neil,D'Souza,(403)508-7177,ALYTE,Calgary,Canada,AB,ACTIVE
 3770744,Neil D'Souza,EM4014561,Global Power Technologies Inc.,Neil.DSouza@globalte.com,Neil,D'Souza,(403)720-7541,ALYTE,Calgary,Canada,AB,ACTIVE
 4171545,Neil Gulewicz,HEI005,HiFi Engineering Inc.,ngulewicz@hifieng.com,Neil,Gulewicz,(403)264-8930,ALYTE,Calgary,Canada,AB,ACTIVE
-3458092,Neil Yaremchuk,CT4003173,InnoTech Alberta,neil.yaremchuk@albertainnovates.ca,NEIL,YAREMCHUK,(780)450-4628,ALYTE,Edmonton,Canada,AB,ACTIVE
 9066760,Neill Rosenke,MEG004,MEGlobal Canada Inc.,rosenkne@meglobal.biz,Neill,Rosenke,(780)952-5125,ALYTE,Fort Saskatchewan,Canada,AB,ACTIVE
 9825645,Nic Carothers,TP2313,Stream Flo Industries Ltd.,ncarothers@streamflo.com,Nic,Carothers,(780)468-6789,ALYTE,Edmonton,Canada,AB,ACTIVE
-5273247,Nicole Budden,DAV255720,Arcfield Canada,nbudden@harris.com,NICOLE,BUDDEN,(403)731-4819,KMENHEERE,Calgary,Canada,AB,ACTIVE
-45091960,Nimesh Patel,CT4005802,Suncor Energy Inc,nimepatel@suncor.com,Nimesh,Patel,(780)743-6928,ALYTE,Tar Island,Canada,AB,ACTIVE
 44801796,Noah Van Brabant,GRO002,Greenfire Resources Operating Corporation,nvanbrabant@greenfireres.com,Noah,Brabant,(780) 660 5614,ALYTE,Calgary,Canada,AB,ACTIVE
 9789641,Nolan Porttin,TEL0037,Techtree Engineering Ltd.,nolan@tteng.ca,Nolan,Porttin,(780)214-2770,ALYTE,Lloydminster,Canada,AB,ACTIVE
-DAV255734,Noland Schaan,DAV255720,Arcfield Canada,nschaan@harris.com,NOLAND,SCHAAN,(403)295-4767,KMENHEERE,Calgary,Canada,AB,ACTIVE
-4795696,Norm Blanchard,DAV255720,Arcfield Canada,nblancha@harris.com,NORM,BLANCHARD,(403)731-4801,KMENHEERE,Calgary,Canada,AB,ACTIVE
 3581954,Norma Edwards,EM4013120,NovAtel Inc.,norma.edwards@novatel.ca,Norma,Edwards,(403)295-4500,ALYTE,Calgary,Canada,AB,ACTIVE
-7177145,Olivia Doyle,HCP003,HC Power,olivia@hcpower.ca,OLIVIA,DOYLE,(780)224-3946,ALYTE,Edmonton,Canada,AB,ACTIVE
 9808390,Omar Mazouzi,STI0041,Steelhaus Technologies Inc.,omazouzi@steelhausinc.com,Omar,Mazouzi,(587)779-4502,ALYTE,Calgary,Canada,AB,ACTIVE
-5642101,Oscar Pinon,EM4014561,Global Power Technologies Inc.,oscar.pinon@globalte.com,Oscar,Pinon,(403)236-5556,ALYTE,Calgary,Canada,AB,ACTIVE
 8558029,Owen Thomas,ETI0014,Exro Technologies Inc. (H/O),othomas@exro.com,Owen,Thomas,(403)472-0195,ALYTE,Calgary,Canada,AB,ACTIVE
-45195905,Owen Yasinsky,CT4003379,Schneider Electric Canada Inc.,Owen.yasinsky@se.com,Owen,Yasinsky,(780)447-6640,ALYTE,Edmonton,Canada,AB,ACTIVE
 6293888,Parsin Reza,CT4004371,University of Alberta,parsinh@gmail.com,PARSIN,REZA,(780)492-3332,ALYTE,Edmonton,Canada,AB,ACTIVE
-4396370,Patrick Malone,DAV255720,Arcfield Canada,pmalone@peraton.com,Patrick,Malone,(403)295-4786,KMENHEERE,Calgary,Canada,AB,ACTIVE
-44797898,Patryk Szopinski,AIS0015,AEC Industrial Solutions,purchasing@aec.ca,Patryk,Szopinski,(403) 346 2071,ALYTE,Red Deer County,Canada,AB,ACTIVE
 45050757,Paul Barclay,BP1119292,University of Calgary,pbarclay@ucalgary.ca,Paul,Barclay,(403)220-5751,ALYTE,Calgary,Canada,AB,ACTIVE
-EM29772072,Paul Bedard,EM4014050,PCA Valence Engineering Technologies Ltd (H/O),paul.bedard@pcavalence.com,PAUL,BEDARD,(403)640-2868,ALYTE,Calgary,Canada,AB,ACTIVE
 9242308,Paul Bernard,REL003,REV Engineering Ltd.,pbernard@reveng.ca,Paul,Bernard,(403)204-5137,ALYTE,Calgary,Canada,AB,ACTIVE
 44990494,Paul Chichka,PLE002,P L Equipment LP,PChichka@prim.com,Paul,Chichka,(780)948-2155,ALYTE,Acheson,Canada,AB,ACTIVE
 6071055,Paul Kadonaga,PAK003,Paul Kadonaga,Pkadonaga@telus.net,Paul,Kadonaga,(403)816-5338,ALYTE,Calgary,Canada,AB,ACTIVE
 45285681,Paul Kim,ZPC001,Zero Point Cryogenics,paul@zpcryo.com,Paul,Kim,(780)720-7242,ALYTE,Edmonton,Canada,AB,ACTIVE
 7451099,Paul Willson,ENS001,Enerflex Ltd.,PWillson@enerflex.com,Paul,Willson,(403)250-6139,ALYTE,Calgary,Canada,AB,ACTIVE
-10047625,Paul Wilson,DAV227176,IWR Technologies Ltd.            (H/O),paul.wilson@livestockwaterrecycling.com,Paul,Wilson,(403)297-0925,ALYTE,Calgary,Canada,AB,ACTIVE
 9768986,Pavlo Goral,DIS008,DistributionNOW,Pavlo.Goral@dnow.com,Pavlo,Goral,(780)944-1000,ALYTE,Edmonton,Canada,AB,ACTIVE
-5410758,Penny Cameron,EM4014561,Global Power Technologies Inc.,penny.cameron@globalte.com,Penny,Cameron,(403)720-7576,ALYTE,Calgary,Canada,AB,ACTIVE
 8990685,Peter Lang,EDA009,Ethos Design and Development Inc.,plang@ethosdd.com,Peter,Lang,(780)868-1148,ALYTE,Edmonton,Canada,AB,ACTIVE
-9808267,Peter Luong,OTX001,Off The X Inc.,pluong@offthex.ca,Peter,Luong,(352)283-3929,ALYTE,Edmonton Intl Airport,Canada,AB,ACTIVE
 9013448,"Phillip Harms, RET, PMP",TEC0048,TC Energy Corporation,phillip_harms@tcenergy.com,Harms,Phillip,(403)948-8236,ALYTE,Airdrie,Canada,AB,ACTIVE
 9526277,Priyanka Prabhuswamy,HSD001,Halliburton Group Canada - Nisku North,Priyanka.prabhuswamy@halliburton.com,Priyanka,Prabhuswamy,(780)955-3065,ALYTE,Nisku,Canada,AB,ACTIVE
-9448746,Quin Greenaway,CEC0021,CES Corporation,q.greenaway@cescorp.ca,Quin,Greenaway,(780)934-5202,ALYTE,Acheson,Canada,AB,ACTIVE
-45121619,Ralph Wiedemeyer,DAV115191,Frontier Power Products,RWiedemeyer@frontierpower.com,Ralph,Wiedemeyer,(587)324-4979,ALYTE,Edmonton,Canada,AB,ACTIVE
-3519869,Randy McLellan,REL003,REV Engineering Ltd.,rmclellan@reveng.ca,Randy,McLellan,(403)287-0156,ALYTE,Calgary,Canada,AB,ACTIVE
 8381375,Rashiv Lubana,MEG004,MEGlobal Canada Inc.,lubanar@meglobal.biz,Rashiv,Lubana,(989)636-5409,ALYTE,Fort Saskatchewan,Canada,AB,ACTIVE
 9273948,Ray Whitaker,MAI0032,Matrix Automation Integration and Machine Inc.,ray.whitaker@matrixaim.ca,Ray,Whitaker,(780)902-3276,ALYTE,Acheson,Canada,AB,ACTIVE
-5506432,Ray Wiersma,EM4011651,Dow Chemical Canada ULC,RWiersma@dow.com,Ray,Wiersma,(403)885-7277,ALYTE,LaCombe County,Canada,AB,ACTIVE
 3883185,Rejean Daigle,REL003,REV Engineering Ltd.,rdaigle@reveng.ca,Rejean,Daigle,(403)214-1742,ALYTE,Calgary,Canada,AB,ACTIVE
 9937137,Remy Houde,KCE002,KCP Energy,r.houde@kcpenergy.com,Remy,Houde,(403)688-0125,ALYTE,Calgary,Canada,AB,ACTIVE
-5505638,Renata Surducan,EM4014561,Global Power Technologies Inc.,renata.surducan@globalte.com,Renata,Surducan,(403)236-5556,ALYTE,Calgary,Canada,AB,ACTIVE
 6491866,Rich Reinbold,EM4011651,Dow Chemical Canada ULC,rreinbold@dow.com,Rich,Reinbold,(403)885-7277,ALYTE,LaCombe County,Canada,AB,ACTIVE
 8982528,Rick Burns,DAV162053,IRT Integrated Rectifier Technologies Inc.,rick.burns@irtrectifier.com,Rick,Burns,(780)447-1114,ALYTE,Edmonton,Canada,AB,ACTIVE
 4075225,Rick Cooke,JEL003,JenSo Controls & Electrical Ltd.,rickcooke@jensocontrols.com,Rick,Cooke,(780)964-4868,ALYTE,Sherwood Park,Canada,AB,ACTIVE
-10048537,Riley Rubner,EM4014050,PCA Valence Engineering Technologies Ltd (H/O),riley.rubner@pcavalence.com,Riley,Rubner,(403)640-2868,ALYTE,Calgary,Canada,AB,ACTIVE
 44764141,Ritu Dutta,HSD001,Halliburton Group Canada - Nisku North,Ritu.Dutta@halliburton.com,Ritu,Dutta,(780) 955 3065,ALYTE,Nisku,Canada,AB,ACTIVE
 9505077,Rob Erickson,P3E001,Phase 3 Electric Ponoka Ltd,robyn@phase3electric.ca,Rob,Erickson,(403)783-2199,ALYTE,Ponoka,Canada,AB,ACTIVE
 9166219,Rob Indoe,TEV001,"Teledyne VariSystems, a business unit of",rob.indoe@teledyne.com,Rob,Indoe,(780)431-4411,ALYTE,Calgary,Canada,AB,ACTIVE
 9061479,Rob Miller,EM4014107,Ametek Canada LP,rob.miller@ametek.com,Rob,Miller,(403)235-8484,ALYTE,Calgary,Canada,AB,ACTIVE
-45339591,Robbie Bailey,WDD001,Wajax Power Systems,rbailey@wajax.com>,Robbie,Bailey,(403)253-7601,ALYTE,Calgary,Canada,AB,ACTIVE
-4795604,Robert  LeDuc,DAV255720,Arcfield Canada,rleduc@harris.com,ROBERT,LEDUC,(403)295-4777,KMENHEERE,Calgary,Canada,AB,ACTIVE
 8837317,Robert Galloway,MPR001,Mercer Peace River Pulp Ltd.,robert.galloway@mercerint.com,Robert,Galloway,(780)624-7000,ALYTE,Peace River,Canada,AB,ACTIVE
 8903595,Robert Hawrelak,SRC004,Suffield Research Centre,robert.hawrelak@drdc-rddc.gc.ca,Robert,Hawrelak,(403)544-4782,ALYTE,Medicine Hat,Canada,AB,ACTIVE
 8886554,Roger Noel,WST13660,Eguana Technologies Inc.,roger.noel@eguanatech.com,Roger,Noel,(403)508-7177,ALYTE,Calgary,Canada,AB,ACTIVE
 8568102,Roger Walker,CJL65768,Suncor Energy Inc.,firebaglaydown@gmail.com,Roger,Walker,(780)381-5021,ALYTE,Fort McMurray,Canada,AB,ACTIVE
-9591228,Rovel Uygen,DON0020,Department of National Defense,Rovel.uygen@forces.gc.ca,Rovel,Uygen,(780)973-4011,ALYTE,Edmonton,Canada,AB,ACTIVE
 8487010,Rutvi Desai,APS0016,AECOM Integrated Services Inc.,rutvi.desai@aecom.com,Rutvi,Desai,(587)785-0482,ALYTE,Fort McMurray,Canada,AB,ACTIVE
-45020095,Ryan Craig,SCL0035,Spartan Controls Ltd.,Craig.Ryan@spartancontrols.com,Ryan,Craig,(403)273-5775,ALYTE,Calgary,Canada,AB,ACTIVE
 7578729,Ryan Egilsson,AMP003,Alberta Mobile Power Systems,ryan@albertapower.ca,RYAN,EGILSSON,(780)986-6691,ALYTE,Leduc,Canada,AB,ACTIVE
 9063321,Ryan MacDonald,CT4000938,BHD Instrumentation Ltd.,ryan.macdonald@bhd.ca,Ryan,MacDonald,(780)434-0595,ALYTE,Edmonton,Canada,AB,ACTIVE
 8568659,Ryan Manson,4745187,GEO Pressure Systems Inc.,ryan.manson@geopsi.com,Ryan,Manson,(825)210-9423,ALYTE,Calgary,Canada,AB,ACTIVE
@@ -484,55 +323,37 @@ EM29772072,Paul Bedard,EM4014050,PCA Valence Engineering Technologies Ltd (H/O),
 9596686,Sally Gai,TEC0048,TC Energy Corporation,sally_gai@tcenergy.com,Sally,Gai,(800)661-3805,ALYTE,Airdrie,Canada,AB,ACTIVE
 9505312,Sam Hesse,SCL0035,Spartan Controls Ltd.,Hesse.Sam@spartancontrols.com,Sam,Hesse,(403)695-2378,ALYTE,Calgary,Canada,AB,ACTIVE
 5142776,Sam Mothana,WCL003,Weatherford Canada Ltd.,Sam.Mothana@weatherford.com,SAM,MOTHANA,(780)465-9311,ALYTE,Edmonton,Canada,AB,ACTIVE
-3177603,Sam Pissard-Maillet,EM4011304,Sabre Ltd. (H/O),sam.p.mailet@sabre.ca,Sam,Pissard-Maillet,(403)258-0566,ALYTE,Calgary,Canada,AB,ACTIVE
 8649677,Sanaa Al-Sumaidae,CT4004371,University of Alberta,alsumaid@ualberta.ca,Sanaa,Al-Sumaidae,(780)807-8307,ALYTE,Edmonton,Canada,AB,ACTIVE
-45209722,Sandi Potter,HEI005,HiFi Engineering Inc.,spotter@hifieng.com,Sandi,Potter,(403)264-8930,ALYTE,Calgary,Canada,AB,ACTIVE
-10051744,Sanjiv Sarpal,TRC005,TransAlta Corporation,sanjiv_sarpal@transalta.com,Sanjiv,Sarpal,(780)936-3446,ALYTE,Calgary,Canada,AB,ACTIVE
 4917742,Sara Kammermayer,CT1145,Corrpro Canada Inc.,skammermayer@aegion.com,Sara,Kammermayer,(780)306-1082,ALYTE,Edmonton,Canada,AB,ACTIVE
-9329314,Sarman Malhi,TCI0037,Thermon Canada Inc.,sarman.malhi@thermon.com,Sarman,Malhi,,ALYTE,Calgary,Canada,AB,ACTIVE
 9429512,Scott Hobbs,HSD001,Halliburton Group Canada - Nisku North,scott.hobbs@halliburton.com,Scott,Hobbs,(780)955-3065,ALYTE,Nisku,Canada,AB,ACTIVE
 7188511,Scott Lobban,TAE002,Triple A Electric,slobban@tripleaelectric.com,SCOTT,LOBBAN,(403)346-6156,ALYTE,Red Deer,Canada,AB,ACTIVE
-6136091,Sean Chamney,CT4000915,Wesco Canada,schamney@wesco.com,Sean,Chamney,(403)259-0447,ALYTE,Calgary,Canada,AB,ACTIVE
 9157422,Sean Hudson,CT4005957,C FER Technologies (1999) Inc.,s.hudson@cfertech.com,Sean,Hudson,(780)450-8989,ALYTE,Edmonton,Canada,AB,ACTIVE
 45355123,Sean McManus,SEM0014,Sean McManus,sean.mcmanus@integralcontrols.ca,Sean,McManus,(403)614-3127,ALYTE,Calgary,Canada,AB,ACTIVE
 9305141,Sean Peers,ETI0014,Exro Technologies Inc. (H/O),speers@exro.com,Sean,Peers,(587)619-1517,ALYTE,Calgary,Canada,AB,ACTIVE
-7248784,Sebastian Correa Lopez,DAV273417,Schlumberger Canada Ltd.,NLopez7@exchange.slb.com,SEBASTIAN,LOPEZ,(780)955-2800,ALYTE,Nisku,Canada,AB,ACTIVE
 8693053,Serge Brache,SBC006,Serge Brache,serge.brache@shaw.ca,Serge,Brache,(403)282-4566,ALYTE,Calgary,Canada,AB,ACTIVE
 8063747,Shabir Barzanjeh,BP1119292,University of Calgary,shabir.barzanjeh@ucalgary.ca,Shabir,Barzanjeh,(664)883-26063,ALYTE,Calgary,Canada,AB,ACTIVE
 1906212,Shane Derewianka,KIL002,Kane Instrumentation Ltd.,shane@kaneinstrumentation.com,Shane,Derewianka,(780)416-5263,ALYTE,Edmonton,Canada,AB,ACTIVE
 5765390,Shane Hankey,STA0011,Startec Refrigeration,shankey@startec.ca,Shane,Hankey,(780)461-0019,ALYTE,Edmonton,Canada,AB,ACTIVE
 45092616,Shane Studer,DAV103096,Spartan Controls Ltd.     (H/O),Studer.Shane@spartancontrols.com,Shane,Studer,(780)440-8303,ALYTE,Calgary,Canada,AB,ACTIVE
-7269253,Shanna Frame,APC0014,Air Products Canada Ltd.,FRAMESD@airproducts.com,SHANNA,FRAME,(780)417-1957,ALYTE,Edmonton,Canada,AB,ACTIVE
-6808030,Shariq Akhlaq,SCH006,Schlumberger Canada Ltd.,SAkhlaq@slb.com,SHARIQ,AKHLAQ,(780)461-1143,ALYTE,Edmonton,Canada,AB,ACTIVE
-6120737,Shaun Begley,SCH006,Schlumberger Canada Ltd.,sbegley@slb.com,SHAUN,BEGLEY,(780)461-1143,ALYTE,Edmonton,Canada,AB,ACTIVE
 8529839,Shaun Schmidt,CEN002,Cenovus Energy Inc.,shaun.schmidt@cenovus.com,Shaun,Schmidt,(780)559-6327,ALYTE,Christina Lake,Canada,AB,ACTIVE
 6249633,Shawn Scott,CTT001,Thermon Heating Systems,shawns@ccithermal.com,Shawn,Scott,(780)466-3178,ALYTE,Edmonton,Canada,AB,ACTIVE
-4780047,Sheena Ruck,PAN001,Panelflex Ltd.,Sheena.Ruck@panelflex.ca,SHEENA,RUCK,(403)279-8205,ALYTE,Calgary,Canada,AB,ACTIVE
-2120530,Sing Lam,EM4014107,Ametek Canada LP,sing.lam@ametek.com,Sing,Lam,(403)235-8400,ALYTE,Calgary,Canada,AB,ACTIVE
-2096284,Soon Chang,EM4013120,NovAtel Inc.,Soon.Chang@novatel.com,SOON,CHANG,(403)730-4676,ALYTE,Calgary,Canada,AB,ACTIVE
 9071273,Spyros Gorgogiannis,ETI0014,Exro Technologies Inc. (H/O),sgorgogiannis@exro.com,Spyros,Gorgogiannis,(587)619-1517,ALYTE,Calgary,Canada,AB,ACTIVE
 8686951,Stefan Damkjar,CT4004371,University of Alberta,sdamkjar@ualberta.ca,Stefan,Damkjar,(780)868-8446,ALYTE,Edmonton,Canada,AB,ACTIVE
 8016830,Stephen Hanchurak,LIS002,Lifting Solutions Inc.,Stephen.Hanchurak@liftingsolutionsinc.com,Stephen,Hanchurak,(587)525-7975,ALYTE,Edmonton,Canada,AB,ACTIVE
-3911650,Steve Hobel,EM4013120,NovAtel Inc.,steve.hobel@novatel.com,STEVE,HOBEL,(403)295-4500,ALYTE,Calgary,Canada,AB,ACTIVE
-9859985,Steve Nixon,EM4011304,Sabre Ltd. (H/O),steve.nixon@sabre.ca,Steve,Nixon,(403)971-1643,ALYTE,Calgary,Canada,AB,ACTIVE
 9098639,Steve Power,HSD001,Halliburton Group Canada - Nisku North,steve.power@halliburton.com,Steve,Power,(780)955-4979,ALYTE,Nisku,Canada,AB,ACTIVE
-45055921,Steven Battle,GOI001,G2V Optics Inc.,steven@g2voptics.com,Steven,Battle,(780)977-9355,ALYTE,Edmonton,Canada,AB,ACTIVE
 4906456,Steven Roberts,EAC002,Eaton Industries (Canada) Company,stevenroberts@eaton.com,Steven,Roberts,(403)948-7955,ALYTE,Airdrie,Canada,AB,ACTIVE
 8838943,Stuart Gilbert,COR0011,Coanda Research & Development Corporation,stuart.gilbert@coanda.ca,Stuart,Gilbert,(780)485-0366,ALYTE,Edmonton,Canada,AB,ACTIVE
 6756025,Stuart Kopiak,CT4000918,Gescan Canada Ltd.,Stuart.KOPIAK@sonepar.ca,STUART,KOPIAK,(780)455-7171,ALYTE,Edmonton,Canada,AB,ACTIVE
 9364812,Sudesh Madhavan,VOP003,Volant Oil Tools Inc.,smadhavan@volantproducts.ca,Sudesh,Madhavan,(780)490-5185,ALYTE,Edmonton,Canada,AB,ACTIVE
 8905849,Suzette Delica,ETI0014,Exro Technologies Inc. (H/O),sdelica@exro.com,Suzette,Delica,(587)328-6104,ALYTE,Calgary,Canada,AB,ACTIVE
 9236969,Taryn Knippel,TAK003,Taryn Knippel,taryn@mcthings.com,Taryn,Knippel,(306)241-6758,ALYTE,Calgary,Canada,AB,ACTIVE
-3439570,Teri Campion,EM4013120,NovAtel Inc.,teri.campion@hexagon.com,Teri,Campion,(403)295-4533,ALYTE,Calgary,Canada,AB,ACTIVE
 7504570,Terry Barton,LUS001,LineStar Utility Supply (Alberta) Inc.,terry@linestar.ca,Terry,Barton,(403)243-1900,ALYTE,Calgary,Canada,AB,ACTIVE
 8251996,Terry Folk,WST14302,Scona Electric Inc,terry@sconaelectric.com,Terry,Folk,(780)433-4247,ALYTE,Edmonton,Canada,AB,ACTIVE
 45166518,Terry Thillmann,TET007,Terry Thillmann,kitecraft@gmail.com,Terry,Thillmann,(403)615-9058,ALYTE,Calgary,Canada,AB,ACTIVE
 9262296,Thel Dvernichuk,BP1177363,University of Alberta,thel.dvernichuk@ualberta.ca,Thel,Dvernichuk,(780)492-4668,ALYTE,Edmonton,Canada,AB,ACTIVE
-9113784,Theo Gagnon,EEE004,Eecol Electric,theo.gagnon@eecol.com,Theo,Gagnon,(780)871-4603,ALYTE,Lloydminster,Canada,AB,ACTIVE
 3444423,Thinh Bao,PAN001,Panelflex Ltd.,thinh.bao@panelflex.ca,THINH,BAO,(403)279-8273,ALYTE,Calgary,Canada,AB,ACTIVE
 8928785,Thomas Cherian,WST14398,Canadian Advanced ESP,thomas.cherian@cai-esp.com,Thomas,Cherian,(780)469-0770,ALYTE,Edmonton,Canada,AB,ACTIVE
 8781550,Thomas Ganley,CT4004371,University of Alberta,ganley@ualberta.ca,Thomas,Ganley,(780)297-2595,ALYTE,Edmonton,Canada,AB,ACTIVE
-7327493,Thomas Hayes,TEC0048,TC Energy Corporation,thomas_hayes@transcanada.com,Thomas,Hayes,(403)948-8236,ALYTE,Airdrie,Canada,AB,ACTIVE
 9721895,Thuy Nguyen,ETI0014,Exro Technologies Inc. (H/O),thnguyen@exro.com,Thuy,Nguyen,(587)316-8508,ALYTE,Calgary,Canada,AB,ACTIVE
 7215989,Thuy Nguyen,EM4013120,NovAtel Inc.,Thuy.Nguyen@novatel.com,THUY,NGUYEN,(403)295-4500,ALYTE,Calgary,Canada,AB,ACTIVE
 8759572,Tim Bensler,EM4013120,NovAtel Inc.,tim.bensler@hexagon.com,Tim,Bensler,(403)295-4500,ALYTE,Calgary,Canada,AB,ACTIVE
@@ -542,33 +363,20 @@ EM29772072,Paul Bedard,EM4014050,PCA Valence Engineering Technologies Ltd (H/O),
 9825638,Tim Kalupar,LIC0017,Linde Canada,tim.kalupar@linde.com,Tim,Kalupar,(587)888-1203,ALYTE,Edmonton,Canada,AB,ACTIVE
 2624666,Tim Tabor,RBT171846,Halliburton Group Canada,Tim.Tabor@halliburton.com,Tim,Tabor,(780)988-5105,ALYTE,Edmonton,Canada,AB,ACTIVE
 10030903,Timothy Put,TIP2998,Timothy Put,timput@gmail.com,Timothy,Put,(587)778-5783,ALYTE,Edmonton,Canada,AB,ACTIVE
-7283995,Todd Sutherland,CT4003173,InnoTech Alberta,todd.sutherland@albertainnovates.ca,TODD,SUTHERLAND,(780)450-5111,ALYTE,Edmonton,Canada,AB,ACTIVE
 44856382,Tom Dickey,GRO002,Greenfire Resources Operating Corporation,TDickey@greenfireres.com,Tom,Dickey,(587)601-5480,ALYTE,Calgary,Canada,AB,ACTIVE
 8042718,Tom Gust,TP2313,Stream Flo Industries Ltd.,tgust@streamflo.com,Tom,Gust,(780)468-6789,ALYTE,Edmonton,Canada,AB,ACTIVE
 8292031,Tom Wilkins,CES0032,ClearStream Energy Services LP,twilkins@clearstreamenergy.ca,Tom,Wilkins,(587)318-0997,ALYTE,Edmonton,Canada,AB,ACTIVE
-RDK260441,Trevor Morrill,CT1145,Corrpro Canada Inc.,Trevor.Morrill@corrpro.ca,TREVOR,MORRILL,(780)447-4189,ALYTE,Edmonton,Canada,AB,ACTIVE
 44829098,Trevor Slywka,SCL0036,Siemens Canada Limited,trevor.slywka@siemens.com,Trevor,Slywka,(780) 504 2061,ALYTE,Nisku,Canada,AB,ACTIVE
 8042614,Tristan Blosser,DAV275099,Conoco Phillips Canada,tristan.blosser@contractor.conocophillips.com,Tristan,Blosser,(780)265-6709,ALYTE,Calgary,Canada,AB,ACTIVE
 9087364,Tristian McCallion,SCL0027,Swagelok Canada Ltd.,Tristian.McCallion@swagelok.com,Tristian,McCallion,(587)437-0640,ALYTE,Edmonton,Canada,AB,ACTIVE
 9020658,Tung Nguyen,ETI0014,Exro Technologies Inc. (H/O),tnguyen@exro.com,Tung,Nguyen,(604)674-7746,ALYTE,Calgary,Canada,AB,ACTIVE
-45253518,Twan Jansen,EM4014166,Haul All Equipment Ltd.,twan@haulall.com,Twan,Jansen,(403)328-7711,ALYTE,Lethbridge,Canada,AB,ACTIVE
 8917811,Tyler Hughes,ELE0020,Eleven Engineering,hughes@eleveneng.com,Tyler,Hughes,(780)425-6511,ALYTE,Edmonton,Canada,AB,ACTIVE
-7133253,Vadym Khrystenok,CT4000918,Gescan Canada Ltd.,vadym.khrystenok@gescan.com,VADYM,KHRYSTENOK,(780)455-7171,ALYTE,Edmonton,Canada,AB,ACTIVE
-7154500,Veronica Field-Schober,STI008,SMART Technologies ULC,vfieldschober@smarttech.com,VERONICA,FIELD-SCHOBER,(403)235-1452,ALYTE,Calgary,Canada,AB,ACTIVE
 8489826,Vicky Whiffen,PCI007,"Powell Canada, Inc.",Vicky.Whiffen@powellind.com,Vicky,Whiffen,(780)948-3377,ALYTE,Acheson,Canada,AB,ACTIVE
 8336749,Victor Fedorov,ADU003,Advanced Upstream,victor.fedorov@advancedupstream.com,Victor,Fedorov,(403)399-8527,ALYTE,Calgary,Canada,AB,ACTIVE
 9118599,Vijay Badhan,PCI007,"Powell Canada, Inc.",vijay.badhan@powellind.com,Vijay,Badhan,(780)271-0541,ALYTE,Acheson,Canada,AB,ACTIVE
-5811731,Vu Tran,EM4014561,Global Power Technologies Inc.,vu.tran@globalte.com,Vu,Tran,(403)236-5556,ALYTE,Calgary,Canada,AB,ACTIVE
-9421395,Vy Nguyen,EM4011304,Sabre Ltd. (H/O),vy.nguyen@sabre.ca,Vy,Nguyen,(403)258-0566,ALYTE,Calgary,Canada,AB,ACTIVE
 5082762,Wade Waterman,CT4003173,InnoTech Alberta,wade.waterman@albertainnovates.ca,WADE,WATERMAN,(780)450-5391,ALYTE,Edmonton,Canada,AB,ACTIVE
-9072830,Wally Fischer,EM4013120,NovAtel Inc.,Wally.fischer@hexagon.com,Wally,Fischer,(403)295-4500,ALYTE,Calgary,Canada,AB,ACTIVE
 5544962,Warren Wessel,TPS009,Tundra Petroleum Services Ltd.,wwessel@tundrapetroleum.com,Warren,Wessel,(403)314-4474,ALYTE,Red Deer County,Canada,AB,ACTIVE
-4297289,Wayne Blazenko,DAV288098,AltaGas Operating Partnership,wayne.blazenko@altagas.ca,Wayne,Blazenko,(403)691-7177,ALYTE,Edmonton,Canada,AB,ACTIVE
-6135243,Wayne Gruenewald,WAG002,Wayne Gruenewald,Waynegr@telus.net,Wayne,Gruenewald,(780)919-5208,ALYTE,Edmonton,Canada,AB,ACTIVE
 8411228,Wayne Klaczek,CT4005957,C FER Technologies (1999) Inc.,w.klaczek@cfertech.com,Wayne,Klaczek,(780)293-5718,ALYTE,Edmonton,Canada,AB,ACTIVE
-8123700,Wenefredo Sumaculub,KEC003,Keyano College,wenefredo.sumaculub@keyano.ca,Wenefredo,Sumaculub,(780)791-4800,ALYTE,Fort McMurray,Canada,AB,ACTIVE
 9710708,Wes Buse,TWE001,Three Way Electrical Systems Inc.,wes.buse@threewayelectrical.com,Wes,Buse,(780)469-3721,ALYTE,Edmonton,Canada,AB,ACTIVE
-9842450,Wheeler O'Harrow,MIE005,Magna IV Engineering,woharrow@magnaiv.com,Wheeler,O'Harrow,(403)723-0575,ALYTE,Calgary,Canada,AB,ACTIVE
-7836169,Will Tomcej,DAV203366,Spartan Controls Ltd.,Tomcej.Will@spartancontrols.com,Will,Tomcej,(780)468-8466,ALYTE,Edmonton,Canada,AB,ACTIVE
 45044910,William Breckenridge,WIB004,William Breckenridge,w.breck@thunder5.ca,William,Breckenridge,(780)288-4218,ALYTE,Edmonton,Canada,AB,ACTIVE
 45151539,Zoe Tomkow,ZOT002,Zoe Tomkow,ztomkow@bishopfox.com,Zoe,Tomkow,(780)362-2600,ALYTE,Edmonton,Canada,AB,ACTIVE
